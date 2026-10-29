@@ -1,0 +1,83 @@
+number|position|japanese text|translation|pointer locations|block
+1|0x80010170|移動アニメ|Moving Animations|0x8003bc30|0
+2|0x8001017c|自動視点切り替え|Automatically switch the point of view|0x8003bc2c|0
+3|0x80010190|戦闘アニメ・エフェクト|Battle Animations and Effects|0x8003bc28|0
+4|0x800101a8|カーソルスピード|Cursor Speed|0x8003bc24|0
+5|0x800101bc|メッセージ送りスピード|Message Advance|0x8003bc20|0
+6|0x800101d4|メッセージ表示スピード|Message Display Speed|0x8003bc1c|0
+7|0x800101ec|ステレオ／モノラル|Stereo/Mono|0x8003bc10|0
+8|0x80010200|モノラル|Mono|0x8003bc38|0
+9|0x8001020c|ステレオ|Stereo|0x8003bc34|0
+10|0x80010224|壊れたデータはロードできません|Corrupted data, cannot load|0x8003bdd0|1
+11|0x80010244|データを読み込みます。よろしいですか？|Load data?|0x8003bdc4|1
+12|0x8001026c|よろしいですか？|Is that alright?|0x8003bdb8|1
+13|0x80010280|メモリーカードを初期化します。|Initialising memory card|0x8003bdb4|1
+14|0x800102a0|新規にデータを作成します。よろしいですか？|Create new save?|0x8003bdac|1
+15|0x800102cc|データを上書きします。よろしいですか？|Overwrite data?|0x8003bda0|1
+16|0x800102f4|データが見つかりません。|No data found|0x8003bd94|1
+17|0x80010310|メモリーカードの初期化に失敗しました|Initialisation failed|0x8003bd88|1
+18|0x80010338|メモリーカードの初期化が完了しました|Initialisation completed|0x8003bd7c|1
+19|0x80010360|空きブロックが不足しています|Not enough free blocks|0x8003bd64|1
+20|0x80010380|メモリーカードがメモリーカード差込口２に|Slot 2 does not have a|0x8003bd54|1
+21|0x800103ac|差されていません|memory card inserted.|0x8003bd4c,0x8003bd58|1
+22|0x800103c0|メモリーカードがメモリーカード差込口１に|Slot 1 does not have a|0x8003bd48|1
+23|0x800103ec|データのセーブに失敗しました|Saving failed|0x8003bd40|1
+24|0x8001040c|データのロードに失敗しました|Loading failed|0x8003bd34|1
+25|0x8001042c|メモリーカードが初期化されていません|Memory card is not initialised|0x8003bd28|1
+26|0x80010454|メモリーカードを初期化しています|Initialising memory card|0x8003bd18|1
+27|0x80010478|データのロードが終了しました|Loading finished|0x8003bd10|1
+28|0x80010498|メモリーカードのデータをロード中です|Loading data|0x8003bd00|1
+29|0x800104c0|データのセーブが終了しました|Saving finished|0x8003bcf8|1
+30|0x800104e0|メモリーカードにデータをセーブしています|Saving data|0x8003bce8|1
+31|0x8001050c|ロードするメモリーカードの差されている|Select a slot to load from|0x8003bcdc|1
+32|0x80010534|メモリーカード差込口を選択してください|the memory card|0x8003bcd4,0x8003bce0|1
+33|0x8001055c|セーブするメモリーカードの差されている|Select a slot to save to|0x8003bcd0|1
+34|0x80010584|抜き差ししないで下さい|a memory card|0x8003bccc,0x8003bcf0,0x8003bd08,0x8003bd20|1
+35|0x8001059c|メモリーカード差込口のメモリーカードを|Do not insert or remove|0x8003bcc8,0x8003bcec,0x8003bd04,0x8003bd1c|1
+36|0x800105c4|メモリーカードをチェックしています|Checking memory card|0x8003bcc4|1
+37|0x800105e8|魔の岩礁ル・リエー|Devil Reef - R'lyeh|0x8003be2c,0x8003be30|1
+38|0x800105fc|解呪の秘薬|The Elixir of Exorcism|0x8003be28|1
+39|0x80010608|邪教のしゅうえん|The Cult of Death|0x8003be24|1
+40|0x8001061c|悠久の守護神|The Eternal Guardian|0x8003be20|1
+41|0x8001062c|幽鬼の潜む密林|The Jungle of Lurking Spectres|0x8003be1c|1
+42|0x8001063c|どうこくの墓標|The Headstone of Lamentation|0x8003be18|1
+43|0x8001064c|異端の学者|The Heretical Scholar|0x8003be14|1
+44|0x80010658|滅びの地|The Ruined Land|0x8003be10|1
+45|0x80010664|希望を繋ぐ橋|The Bridge of Hope|0x8003be0c|1
+46|0x80010674|死を運ぶ女|The Woman Who Carries Death|0x8003be08|1
+47|0x80010680|小さな刺客|The Small Assassin|0x8003be04|1
+48|0x8001068c|人魚のらく印|The Curse of Ogaeritō|0x8003be00|1
+49|0x8001069c|運命の日|A Fateful Day|0x8003bdfc|1
+50|0x800106a8|異形の血|Abnormal Blood|0x8003bdf4|1
+51|0x800106b4|生死を別つ石壁|The Stone Abyss Between Life and Death|0x8003bdf0|1
+52|0x800106c4|牙を隠す大地|The Earth Conceals Its Fangs|0x8003bdec|1
+53|0x800106d4|追憶の湿原|The Swamp of Reminiscence|0x8003bde8|1
+54|0x800106e0|呪海の難破船|The Shipwreck From the Cursed Sea|0x8003bde4|1
+55|0x800106f0|十字架の丘|The Hill of Crucifixion|0x8003bddc|1
+56|0x80044ea4|いいえ|No|0x8003bc0c|2
+57|0x80044eac|はい|Yes|0x8003bc08|2
+58|0x80044eb8|効果音|Sound effects|0x8003bc18|3
+59|0x80044ec0|ＢＧＭ|BGM|0x8003bc14|3
+60|0x80044ec8|任意|Manual|0x8003bc74|3
+61|0x80044ed0|遅い|Slow|0x8003bc70,0x8003bc8c|3
+62|0x80044ed8|普通|Normal|0x8003bc6c,0x8003bc80,0x8003bc88|3
+63|0x80044ee0|速い|Fast|0x8003bc68,0x8003bc7c,0x8003bc84|3
+64|0x80044ee8|高速|Very Fast|0x8003bc64,0x8003bc78|3
+65|0x80044ef0|ＯＦＦ|OFF|0x8003bc48,0x8003bc58,0x8003bc98,0x8003bca8,0x8003bcb8|3
+66|0x80044ef8|ＯＮ|ON|0x8003bc44,0x8003bc54,0x8003bc94,0x8003bca4,0x8003bcb4|3
+67|0x80044f00|エラー|Error|0x8003bd70|3
+68|0x80044f08|||0x8003bcd8,0x8003bce4,0x8003bcf4,0x8003bcfc,0x8003bd0c,0x8003bd14,0x8003bd24,0x8003bd2c,0x8003bd30,0x8003bd38,0x8003bd3c,0x8003bd44,0x8003bd50,0x8003bd5c,0x8003bd60,0x8003bd68,0x8003bd6c,0x8003bd74,0x8003bd78,0x8003bd80,0x8003bd84,0x8003bd8c,0x8003bd90,0x8003bd98,0x8003bd9c,0x8003bda4,0x8003bda8,0x8003bdb0,0x8003bdbc,0x8003bdc0,0x8003bdc8,0x8003bdcc,0x8003bdd4|3
+69|0x80044f0c|帰還|The Return|0x8003bdf8|3
+70|0x80044f14|決意|Determination|0x8003bde0|3
+71|0x80044f1c|脱出|Escape|0x8003bdd8|3
+72|0x8001cb2c|メモリーカード差込口２|Memory card slot 2|0x80044f40|4
+73|0x8001cb2c|メモリーカード差込口１|Memory card slot 1|0x80044f3c|4
+74|0x8001072c|ＥＸＩＴ|EXIT||
+75|0x80010738|新規作成|New save||
+76|0x80010744|ＦＩＬＥ|FILE||
+77|0x80010750|シナリオ|Scenario||
+78|0x8001075c|データが壊れています|The data is corrupted.||
+79|0x80044f2c|ロード|LOAD||
+80|0x80044f34|セーブ|SAVE||
+81|0x80044f44|レベル|Level||
+82|0x80044f4c|終幕| (end)||

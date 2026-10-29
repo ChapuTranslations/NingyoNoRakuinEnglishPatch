@@ -1,0 +1,944 @@
+number|block start|pointer positions|japanese text|translation
+1|0xccf4e4|0xd3b4dc|瞬間移動|Teleportation
+2|0xccf4e4|0xd3b4d8|飛空|Flight
+3|0xccf4e4|0xd3b4d4|飛行|Flight
+4|0xccf4e4|0xd3b4d0|固定|Fixed
+5|0xccf4e4|0xd3b4cc|水行|Swimming
+6|0xccf4e4|0xd3b4c8|水棲|Aquatic
+7|0xccf4e4|0xd3b4c4|腹行|Crawling
+8|0xccf4e4|0xd3b4c0|鈍重|Sluggish
+9|0xccf4e4|0xd3b4bc|徒歩|Hiker
+10|0xccf4e4|0xd3b4b8|歩行|Trudger
+11|0xccf4e4|0xd3b4b4|疾風|Windwalker
+12|0xccf4e4|0xd3b4b0|軽快|Nimble
+13|0xccf4e4|0xd3b520|潜在能力|Latent Potential
+14|0xccf4e4|0xd3b51c|呪いの波動|Curse Wave
+15|0xccf4e4|0xd3b518|鼓舞|Encouraged
+16|0xccf4e4|0xd3b514|毒の体液|Poisonous Fluids
+17|0xccf4e4|0xd3b510|第六感|Sixth Sense
+18|0xccf4e4|0xd3b50c|一撃離脱|Attack and Withdraw
+19|0xccf4e4|0xd3b508|ベルゼルク|Berserk
+20|0xccf4e4|0xd3b504|水妖|Sprite
+21|0xccf4e4|0xd3b500|水練|Trained Swimmer
+22|0xccf4e4|0xd3b4fc|自然治癒|Natural Healing
+23|0xccf4e4|0xd3b4f8|連続攻撃|Chain Attack
+24|0xccf4e4|0xd3b4f4|異常無効|Strong Constitution
+25|0xccf4e4|0xd3b4f0|クリティカル|Critical
+26|0xccf4e4|0xd3b4ec|後方攻撃|Backstab
+27|0xccf4e4|0xd3b4e8|側面攻撃|Flanking Attack
+28|0xccf4e4|0xd3b4e4|先制攻撃|Pre-emptive Strike
+29|0xccf4e4|0xd3b4e0,0xd3b59c,0xd3b5a4,0xd3b5a8,0xd3b5d0||
+30|0xccf4e4|0xd3b5a0|呪いの像|Cursed Statue
+31|0xccf4e4|0xd3b598|眼|Eyeball
+32|0xccf4e4|0xd3b594|触手|Tentacle
+33|0xccf4e4|0xd3b590|邪神|Jya'Shin
+34|0xccf4e4|0xd3b58c|ヒュドラ|Hydra
+35|0xccf4e4|0xd3b588|ゴーレム|Kauran
+36|0xccf4e4|0xd3b584|ガーゴイル|Vyōnes
+37|0xccf4e4|0xd3b580|トグ|Tog
+38|0xccf4e4|0xd3b57c|トレント|Trent
+39|0xccf4e4|0xd3b578|グール|Ghoul
+40|0xccf4e4|0xd3b574|ゾンビ|Zombie
+41|0xccf4e4|0xd3b570|ビヤーキー|Byakhee
+42|0xccf4e4|0xd3b56c|ディープワン|Deep One
+43|0xccf4e4|0xd3b568|ダゴン|Jya'Shin Progeny
+44|0xccf4e4|0xd3b564|吸血蔦|Kyu'Ketsu'Tsuta
+45|0xccf4e4|0xd3b560|子供|Child
+46|0xccf4e4|0xd3b558,0xd3b55c|呪術士|Shaman
+47|0xccf4e4|0xd3b550,0xd3b554|狩人|Hunter
+48|0xccf4e4|0xd3b548,0xd3b54c|戦士|Warrior
+49|0xccf4e4|0xd3b544|篠原|Shinohara
+50|0xccf4e4|0xd3b540|アークレット|Arklett
+51|0xccf4e4|0xd3b53c|マエラカ|Maeraka
+52|0xccf4e4|0xd3b538|クロウ|Crow
+53|0xccf4e4|0xd3b534|キリウ|Kiriu
+54|0xccf4e4|0xd3b530|タケル|Takeru
+55|0xccf4e4|0xd3b52c|ステーシー|Stacy
+56|0xccf4e4|0xd3b528|玲司|Reiji
+57|0xccf4e4|0xd3b524|ハワード|Howard
+58|0xccf4e4|0xd3b628|攻撃力、防御力、技量、速さの全てが増加します。|Skill, and Speed parameters all increase.
+59|0xccf4e4|0xd3b624|ＨＰが最大値の２０％以下に減少したとき、|When his HP falls below 20% his Attack, Defense,
+60|0xccf4e4|0xd3b620|その敵は呪われることがあります。|may become cursed.
+61|0xccf4e4|0xd3b618|その味方の命中率＆攻撃力を多少増加させます。|power of adjacent allies at the same height.
+62|0xccf4e4|0xd3b614|同じ高度の隣接パネルに味方がいるとき、|They slightly increase the Accuracy and Attack
+63|0xccf4e4|0xd3b610|その敵は、毒状態となるときがあります。|may become poisoned.
+64|0xccf4e4|0xd3b60c,0xd3b61c|同じ高度の隣接パネルに敵がいるとき、|Enemies on adjacent places at the same height,
+65|0xccf4e4|0xd3b608|攻撃をよける確率が高くなります。|he has a high chance of evading their attack.
+66|0xccf4e4|0xd3b604|敵から攻撃されたとき、|When assailed by an enemy,
+67|0xccf4e4|0xd3b600|反撃されないことがあります。|she may be able to avoid a Counter-Attack.
+68|0xccf4e4|0xd3b5f8|少しづつ自動的に回復します。|will gradually recover.
+69|0xccf4e4|0xd3b5f4|消費されたＭＰが|Any MP that has been consumed
+70|0xccf4e4|0xd3b5f0|少しずつ自動的に回復していきます。|will gradually recover.
+71|0xccf4e4|0xd3b5ec|水系の地形にいるとき、ダメージを受けたＨＰが|When in water logged terrain, any lost HP
+72|0xccf4e4|0xd3b5e8|攻撃力が多少増加します。|their Attack power slightly increases.
+73|0xccf4e4|0xd3b5e4|水系の地形にいるとき、|When she is within water logged terrain,
+74|0xccf4e4|0xd3b5e0|少しずつ自動的に回復します。|will gradually recover.
+75|0xccf4e4|0xd3b5dc|ダメージを受けたＨＰが、|any HP lost from physical injuries
+76|0xccf4e4|0xd3b5d8|２倍のダメージを与えるときがあります。|deals twice the amount of damage.
+77|0xccf4e4|0xd3b5d4,0xd3b5fc|敵を攻撃するとき、|When she attacks an enemy, she occasionally
+78|0xccf4e4|0xd3b5cc|絶対にステータス異常になりません。|they will never cause status abnormalities.
+79|0xccf4e4|0xd3b5c8|クリティカルヒットの発生確率が増加します。|the chance of dealing a critical hit increases.
+80|0xccf4e4|0xd3b5c4|敵を攻撃するとき|When they attack an enemy,
+81|0xccf4e4|0xd3b5bc|敵を攻撃するとき、後ろからの攻撃と同様に|His attacks occasionally increase in power,
+82|0xccf4e4|0xd3b5b8,0xd3b5c0|攻撃力が増加するときがあります。|as if he had Backstabbed an enemy.
+83|0xccf4e4|0xd3b5b4|敵を攻撃するとき、横からの攻撃と同様に|as if he had performed a Flanking Attack.
+84|0xccf4e4|0xd3b5b0|相手より先に攻撃（反撃）出来るときがあります。|he occasionally Counter-Attacks first.
+85|0xccf4e4|0xd3b5ac|敵に隣接攻撃されるとき、|When an enemy attacks from an adjacent place,
+86|0xccf4e4|0xd3b64c|気絶|Fainted
+87|0xccf4e4|0xd3b648|盲目|Blinded
+88|0xccf4e4|0xd3b644|マヒ|Paralyse
+89|0xccf4e4|0xd3b640|臆病|Terrifie
+90|0xccf4e4|0xd3b63c|魅了|Hexed
+91|0xccf4e4|0xd3b638|混乱|Confused
+92|0xccf4e4|0xd3b634|呪い|Cursed
+93|0xccf4e4|0xd3b630|激痛|In Agony
+94|0xccf4e4|0xd3b62c|毒|Poisoned
+95|0xccf4e4|0xd3b658|装飾品変更|Equip Trinket
+96|0xccf4e4|0xd3b654|防具変更|Equip Armour
+97|0xccf4e4|0xd3b650|武器変更|Equip Weapon
+98|0xccf4e4|0xd3b6e0|宝箱|Treasure
+99|0xccf4e4|0xd3b6d8,0xd3b6dc|−−|--
+100|0xccf4e4|0xd3b6d4|結界|Barrier
+101|0xccf4e4|0xd3b6d0|神殿|Temple
+102|0xccf4e4|0xd3b6cc|祭壇|Altar
+103|0xccf4e4|0xd3b6c8|城壁|Ramparts
+104|0xccf4e4|0xd3b6c4|洞窟|Cavern
+105|0xccf4e4|0xd3b6c0|墓地|Cemetery
+106|0xccf4e4|0xd3b6bc|甲板|Deck
+107|0xccf4e4|0xd3b6b8|間欠泉|Geyser
+108|0xccf4e4|0xd3b6b4|亀裂|Fissure
+109|0xccf4e4|0xd3b6b0|吊り橋|Bridge
+110|0xccf4e4|0xd3b6ac|箱|Box
+111|0xccf4e4|0xd3b6a8|毒地|Poison
+112|0xccf4e4|0xd3b6a4|沼地|Swamp
+113|0xccf4e4|0xd3b6a0|湿地|Marsh
+114|0xccf4e4|0xd3b69c|海|Sea
+115|0xccf4e4|0xd3b698|川|River
+116|0xccf4e4|0xd3b694|浅瀬|Shallows
+117|0xccf4e4|0xd3b690|階段|Stairs
+119|0x5cd0|0xd3b688|砂浜|Beach
+120|0x5cd0|0xd3b684|砂地|Sand
+121|0x5cd0|0xd3b680|石床|Stone
+122|0x5cd0|0xd3b67c|岩場|Rocks
+123|0x5cd0|0xd3b678|ガレキ|Debris
+124|0x5cd0|0xd3b674|荒れ地|Wastes
+125|0x5cd0|0xd3b670|倒木|Deadwood
+126|0x5cd0|0xd3b66c|木床|Timber
+127|0x5cd0|0xd3b668|草むら|Thicket
+128|0x5cd0|0xd3b664|水草|Reeds
+129|0x5cd0|0xd3b660|草地|Grass
+130|0x5cd0|0xd3b65c|地肌|Earth
+131|0xccfc54|0xd3b70c|気合|Yell
+132|0xccfc54|0xd3b708|治療|Healing
+133|0xccfc54|0xd3b710|方向キーで向きを設定してください|Set a direction using the D-pad.
+134|0xccfd9c|0xccfdbc|スキル|Skill
+135|0xccfd9c|0xccfdc0|武 器|Weapon
+136|0xccfd9c|0xccfdc4|防 具|Armour
+137|0xccfd9c|0xccfdc8|装飾品|Trinket
+138|0xccfe80|0xd3ba2c,0xd3bdb8,0xd3bdbc||
+139|0xccfe80|0xd3ba28|ソロモンの指輪|Solomon's Ring
+140|0xccfe80|0xd3ba24|死神の白衣|Shinigami Robe
+141|0xccfe80|0xd3ba20|魔法書|Mason's Grimoire
+142|0xccfe80|0xd3ba1c|禍玉|Eldritch Stone
+143|0xccfe80|0xd3ba18|黄丹の衣冠|Yellow Crown
+144|0xccfe80|0xd3ba14|双蛇の念珠|Sōhebi Rosary
+145|0xccfe80|0xd3ba10|神火飛尖|Fthaggua's Flame
+146|0xccfe80|0xd3ba0c|三日月の神鉄|Gibbous Blade
+147|0xccfe80|0xd3ba08|皇帝の拳|Azathoth's Fist
+148|0xccfe80|0xd3ba04|神殺の鋼|Shoggoth Steel
+149|0xccfe80|0xd3ba00|怒竜砲|Shantak Cannon
+150|0xccfe80|0xd3b9fc|落雷の杖|Martense Staff
+151|0xccfe80|0xd3b9f8|人魚の爪|Merfolk Claws
+152|0xccfe80|0xd3b9f4|鳴神の筒|Yithian Cylinder
+153|0xccfe80|0xd3b9f0|秘薬|Nostrum
+154|0xccfe80|0xd3b9ec|オデュの腕輪|Odu's Bracelet
+155|0xccfe80|0xd3b9e8|絵里子の腕輪|Eriko's Bracelet
+156|0xccfe80|0xd3b9e4|素早さの神酒|Byakhee Wine
+157|0xccfe80|0xd3b9e0|技の神酒|Niggurath Wine
+158|0xccfe80|0xd3b9dc|守りの神酒|Wandrei Wine
+159|0xccfe80|0xd3b9d8|力の神酒|Mak Morn Ale
+160|0xccfe80|0xd3b9d4|精神の神酒|Joshi's Wine
+161|0xccfe80|0xd3b9d0|体力の神酒|Van Buren Coffee
+162|0xccfe80|0xd3b9cc|賢者の石|Ar-E'chBei Stone
+163|0xccfe80|0xd3b9c8|鎮魂の香|Sacred Incense
+164|0xccfe80|0xd3b9c4|滋養強壮薬|Energy Tonic
+165|0xccfe80|0xd3b9c0|精力剤|Analeptic
+166|0xccfe80|0xd3b9bc|特効薬|Miracle Elixir
+167|0xccfe80|0xd3b9b8|傷薬|Wound Ointment
+168|0xccfe80|0xd3b9b4|薬草|Medicinal Herb
+169|0xccfe80|0xd3b9b0|封技の香|Sealing Incense
+170|0xccfe80|0xd3b9ac|忘却草|Oblivion Grass
+171|0xccfe80|0xd3b9a8|万能薬|Panacea
+172|0xccfe80|0xd3b9a4|気付け薬|Smelling Salts
+173|0xccfe80|0xd3b9a0|目薬|Eye drops
+174|0xccfe80|0xd3b99c|弛緩剤|Relaxants
+175|0xccfe80|0xd3b998|興奮剤|Stimulant
+176|0xccfe80|0xd3b994|アンチフェロモン|Anti-Pheromone
+177|0xccfe80|0xd3b990|鎮静剤|Sedative
+178|0xccfe80|0xd3b98c|聖水|Holy Water
+179|0xccfe80|0xd3b988|鎮痛剤|Painkiller
+180|0xccfe80|0xd3b984|解毒薬|Antidote
+181|0xccfe80|0xd3b980|ダイナマイト|Dynamite
+182|0xccfe80|0xd3b97c|爆弾|Bomb
+183|0xccfe80|0xd3b978|爆薬|Blasting Powder
+184|0xccfe80|0xd3b974|心眼の玉|Mentis Oculi Orb
+185|0xccfe80|0xd3b970|八坂の玉|Yasakani Orb
+186|0xccfe80|0xd3b96c|死返の玉|Reanimator Orb
+187|0xccfe80|0xd3b968|精神の賢石|Sanity Stone
+188|0xccfe80|0xd3b964|生命の賢石|Olney's Stone
+189|0xccfe80|0xd3b960|開運の賢石|Carter's Stone
+190|0xccfe80|0xd3b95c|心の札|Sonia's Talisman
+191|0xccfe80|0xd3b958|一見十知の札|Sothoth Talisman
+192|0xccfe80|0xd3b954|魚鱗の具足|Ichthyic Boots
+193|0xccfe80|0xd3b950|足輪|Ankle Chain
+194|0xccfe80|0xd3b94c|狼足の草履|Wolfskin Sandals
+195|0xccfe80|0xd3b948|布の靴|Cloth Shoes
+196|0xccfe80|0xd3b944|荒魂の腕輪|Aratama Bracelet
+197|0xccfe80|0xd3b940|白金の腕輪|Gnorri Bangle
+198|0xccfe80|0xd3b93c|珊瑚の腕輪|Coral Bracelet
+199|0xccfe80|0xd3b938|ブレスレット|Bracelet
+200|0xccfe80|0xd3b934|人魚石の勾玉|Ogaeritō Stone
+201|0xccfe80|0xd3b930|黒真珠の指輪|Black Pearl Ring
+202|0xccfe80|0xd3b92c|銀の指輪|Silver Ring
+203|0xccfe80|0xd3b928|リング|Ring
+204|0xccfe80|0xd3b924|蜂の比礼|Hornet Hirei
+205|0xccfe80|0xd3b920|狩衣|Hunting Clothes
+206|0xccfe80|0xd3b91c|神女の羽衣|Goddess Robe
+207|0xccfe80|0xd3b918|布の服|Clothes
+208|0xccfe80|0xd3b914|魚鱗の戦甲|Ichthyic Armour
+209|0xccfe80|0xd3b910|鎖かたびら|Chain Mail
+210|0xccfe80|0xd3b90c|黒漆の鎧|Lacquer Armour
+211|0xccfe80|0xd3b908|革の鎧|Leather Armour
+212|0xccfe80|0xd3b904|魚鱗の盾|Ichthyic Shield
+213|0xccfe80|0xd3b900|鋼の盾|Steel Shield
+214|0xccfe80|0xd3b8fc|亀甲の盾|Tortoise Shield
+215|0xccfe80|0xd3b8f8|木の盾|Wooden Shield
+216|0xccfe80|0xd3b8f4|石薙の剣|Stone Naginata
+217|0xccfe80|0xd3b8f0|斬首剣|Execution Blade
+218|0xccfe80|0xd3b8ec|鉄剣|Iron Sword
+219|0xccfe80|0xd3b8e8|蛮刀|Cimmerian Blade
+220|0xccfe80|0xd3b8e4|銀の念珠|Silver Rosary
+221|0xccfe80|0xd3b8e0|鱗の念珠|Scale Rosary
+222|0xccfe80|0xd3b8dc|力の念珠|Cultist Rosary
+223|0xccfe80|0xd3b8d8|貝の念珠|Shell Rosary
+224|0xccfe80|0xd3b8d4|まほろばの弓|Mahoroba Bow
+225|0xccfe80|0xd3b8d0|長弓|Longbow
+226|0xccfe80|0xd3b8cc|毒牙弓|Poison Fang Bow
+227|0xccfe80|0xd3b8c8|短弓|Short Bow
+228|0xccfe80|0xd3b8c4|七宝の斧|Cloisonne Axe
+229|0xccfe80|0xd3b8c0|月光の斧|Moonlight Axe
+230|0xccfe80|0xd3b8bc|戦斧|Battle Axe
+231|0xccfe80|0xd3b8b8|斧|Axe
+232|0xccfe80|0xd3b8b4|八握の刀|Yatsuka Tsurugi
+233|0xccfe80|0xd3b8b0|北斗刀|Hokuto
+234|0xccfe80|0xd3b8ac|直刀|Chokutō
+235|0xccfe80|0xd3b8a8|石刀|Stone Sword
+236|0xccfe80|0xd3b8a4|月牙鉄拳|Dylath-Leen Fist
+237|0xccfe80|0xd3b8a0|ナックルダスター|Knuckle Duster
+238|0xccfe80|0xd3b89c|パワーグローブ|Merritt Gloves
+239|0xccfe80|0xd3b898|グローブ|Leather Gloves
+240|0xccfe80|0xd3b894|ＳＰＰ|Steyr SPP
+241|0xccfe80|0xd3b890|グリスガン|M3 Machine Gun
+242|0xccfe80|0xd3b88c|六四式小銃|Howa Type 64
+243|0xccfe80|0xd3b888|Ｍ１６|M16
+244|0xccfe80|0xd3b884|エアータイザー|Taser
+245|0xccfe80|0xd3b880|スタンマスター|Stun Master
+246|0xccfe80|0xd3b87c|エレキバトン|Electric Baton
+247|0xccfe80|0xd3b878|スタンガン|Spark
+248|0xccfe80|0xd3b874|デザートイーグル|Desert Eagle
+249|0xccfe80|0xd3b870|ワルサーＰＰＫ|Walther PPK
+250|0xccfe80|0xd3b86c|ベレッタＭ９３Ｒ|Beretta M93R
+251|0xccfe80|0xd3b868|コルトガバメント|Colt M1911
+252|0xccfe80|0xd3bdb0|魔術の効果を高める指輪。|An eldritch ring that deepens arcane powers.
+253|0xccfe80|0xd3bda8|魔術によって守備力を高めた白衣。|A pale shroud warded by forgotten sorceries.
+254|0xccfe80|0xd3bda0|黒魔術の魔法書。|A grim tome of unholy, accursed sorceries.
+255|0xccfe80|0xd3bd98|禍禍しい力の宿った玉。|A foul gem that whispers unspeakable malice.
+256|0xccfe80|0xd3bd90|バハルナ司祭の正装。|A ceremonial crown worn by Baharnan priests.
+257|0xccfe80|0xd3bd88|古代の神の力が宿った腕輪。|Cursed by a venomous twin-headed deity.
+258|0xccfe80|0xd3bd84|効果：パラメータ増加 キリウ専用|Enhances Kiriu's abilities.
+259|0xccfe80|0xd3bd80|弓に似てる謎の武器。|A spectral bow, wreathed in unearthly flames.
+260|0xccfe80|0xd3bd7c|効果：パラメータ増加 クロウ専用|Enhances Crow's abilities.
+261|0xccfe80|0xd3bd78|斧に似た、三日月型の謎の武器。|A crescent blade, forged by unknown horrors.
+262|0xccfe80|0xd3bd74|効果：パラメータ増加 ハワード専用|Enhances Howard's abilities.
+263|0xccfe80|0xd3bd70|手にはめるタイプの謎の武器。|A sinister gauntlet, brimming with chaos.
+264|0xccfe80|0xd3bd6c|効果：パラメータ増加 タケル専用|Enhances Takeru's abilities.
+265|0xccfe80|0xd3bd68|刀身に神殺しと刻まれた謎の武器。|A dark blade, etched with profane markings.
+266|0xccfe80|0xd3bd64|効果：パラメータ増加 玲司専用|Enhances Reiji's abilities.
+267|0xccfe80|0xd3bd60|マシンガンに似た謎の武器。|A vile contraption, wrought in forbidden metals.
+268|0xccfe80|0xd3bd5c|効果：パラメータ増加 ステーシー専用|Enhances Stacy's abilities.
+269|0xccfe80|0xd3bd58|先から電撃の出る謎の武器。|A instrument born from malevolent lightning.
+270|0xccfe80|0xd3bd54|効果：パラメータ増加 ヒロイン専用|Enhances heroine's abilities.
+271|0xccfe80|0xd3bd50|ダゴンの爪に似た謎の武器。|They resemble the twisted foul claws of Dagon.
+272|0xccfe80|0xd3bd4c|効果：パラメータ増加 主人公専用|Enhances hero's abilities.
+273|0xccfe80|0xd3bd48|銃に似た謎の武器。|A bizarre object that glows with an eerie light.
+274|0xccfe80|0xd3bd44|効果：ヒロインを元の姿に戻す|that may restore human flesh to cursed bones.
+275|0xccfe80|0xd3bd40|バハルナ秘術で作られた秘薬。|An elixir created through ancient Baharnan arts
+276|0xccfe80|0xd3bd3c|効果：ＭＰ増加 ステーシー専用|grandfather, the anthropologist Odu Coco.
+277|0xccfe80|0xd3bd38|オデュ・ココの遺品。|A bracelet which belonged to Stacy's
+278|0xccfe80|0xd3bd34|効果：ＭＰ増加 玲司専用|wife Eriko, who perished two years ago.
+279|0xccfe80|0xd3bd30|玲司の妻、絵里子の遺品。|A bracelet which belonged to Reiji's
+280|0xccfe80|0xd3bd28|素早さを高める神酒|A disgusting concoction, sacred to the Byakhee.
+281|0xccfe80|0xd3bd20|技量を高める神酒|A vile wine imbibed by Shub-Niggurath cultists.
+282|0xccfe80|0xd3bd18|守備力を高める神酒|A delicious wine, often drunk at midnight.
+283|0xccfe80|0xd3bd14,0xd3bd8c,0xd3bda4|効果：攻撃力増加|strengthens the thews and powers of attack.
+284|0xccfe80|0xd3bd10|攻撃力を高める神酒|A bitter ale drunk by Cimmerians, which
+285|0xccfe80|0xd3bd0c,0xd3bd9c,0xd3bdb4|効果：ＭＰ増加|A sacred wine which enhances mental fortitude.
+286|0xccfe80|0xd3bd08|精神力を高める神酒|The unique bouquet hints at subtler magick.
+287|0xccfe80|0xd3bd04|効果：ＨＰ増加|coffee was brewed by a beloved grandfather.
+288|0xccfe80|0xd3bd00|体力を高める神酒|This exceedingly delicious, stamina enhancing
+289|0xccfe80|0xd3bcfc|効果：ＨＰ＆ＭＰの完全回復|these rhinestones fully restore body and mind.
+290|0xccfe80|0xd3bcf8|不思議な力の秘めた石。|Found on the dark shore of the night ocean,
+291|0xccfe80|0xd3bcf0|精神力の回復作用のある香木。|A strange incense with soothing vapours.
+292|0xccfe80|0xd3bce8|滋養強壮の薬。|A concoction that banishes mental weariness.
+293|0xccfe80|0xd3bce4,0xd3bcec,0xd3bcf4|効果：ＭＰの回復|Eases the mind and restores mental strength.
+294|0xccfe80|0xd3bce0|疲れた体に良い薬。|This potent draught reinvigorates the flesh.
+295|0xccfe80|0xd3bcd8|怪我や体力回復に優れた薬。|This tincture mends flesh and restores vigour.
+296|0xccfe80|0xd3bcd0|傷に良く効く薬。|A pungent, greasy balm that soothes rent flesh.
+297|0xccfe80|0xd3bccc,0xd3bcd4,0xd3bcdc|効果：ＨＰの回復|Heals injuries and lacerations of the body.
+298|0xccfe80|0xd3bcc8|怪我に効く薬草。|This odd herb grows abundantly on Ogaeritō.
+299|0xccfe80|0xd3bcc4|効果：特技を封じる|causing foes to forget their Special Techniques.
+300|0xccfe80|0xd3bcc0|この香をかぐと、特技を忘れてしまう。|The eldritch fragrance unravels the mind,
+301|0xccfe80|0xd3bcbc|効果：攻撃技を封じる|causing foes to forget their Special Attacks.
+302|0xccfe80|0xd3bcb8|臭いをかぐと、攻撃技を忘れてしまう。|The scent leaves the mind a hushed void, 
+303|0xccfe80|0xd3bcb4|効果：状態異常の快癒|Miraculously cures abnormal status conditions.
+304|0xccfe80|0xd3bcb0|状態異常を全て直す万能薬。|A draught only whispered of in Greek myths.
+305|0xccfe80|0xd3bcac|効果：気絶の快癒|Awakens those who have fainted from terror.
+306|0xccfe80|0xd3bca8|気絶したものの意識を覚ます薬。|The stench of ammonia restores consciousness.
+307|0xccfe80|0xd3bca4|効果：盲目の快癒|Cures blindness, restoring sight to weary eyes.
+308|0xccfe80|0xd3bca0|一時的な失明状態を治す薬。|Viscous drops that lift the crawling dark.
+309|0xccfe80|0xd3bc9c|効果：マヒの快癒|Cures paralysis, relieving stiffened limbs.
+310|0xccfe80|0xd3bc98|マヒした筋肉を元に戻す効果のある薬。|A compound which induces gentle muscle tremors.
+311|0xccfe80|0xd3bc94|効果：臆病の快癒|Cures cowardice with an invigoration of courage.
+312|0xccfe80|0xd3bc90|精神を高揚させる効果のある薬。|Created by a perverse and morbid scientist.
+313|0xccfe80|0xd3bc8c|効果：魅了の快癒|Expels sinister energy and cures hexes.
+314|0xccfe80|0xd3bc88|何かに魅せられた状態を戻す薬。|This alchemical ward dispels bewitchments.
+315|0xccfe80|0xd3bc84|効果：混乱の快癒|Calms the disturbed mind and cures confusion.
+316|0xccfe80|0xd3bc80|興奮した精神を鎮める効果のある薬。|A soporific drug that stills riotous thoughts.
+317|0xccfe80|0xd3bc7c|効果：呪いの快癒|Shatters minor hexes and breaks weak curses.
+318|0xccfe80|0xd3bc78|呪われたものを救うための特殊な水。|Sacred water blessed in the name of Jya'Shin.
+319|0xccfe80|0xd3bc74|効果：激痛の快癒|Offers relief from severe physical pain.
+320|0xccfe80|0xd3bc70|痛みを和らげる効果のある薬。|A viscous but piquant, ichor coloured medicine.
+321|0xccfe80|0xd3bc6c|効果：毒の快癒|purges the body of toxins, and cures poisoning.
+322|0xccfe80|0xd3bc68|毒を中和する効果のある薬。|A pungent medicine that neutralises venoms,
+323|0xccfe80|0xd3bc60|強力な破壊力のある爆弾。|An explosive mix of nitroglycerin and sorbents.
+324|0xccfe80|0xd3bc58|簡単な構造の爆弾。威力もそこそこ。|A simply constructed, powerful explosive device.
+325|0xccfe80|0xd3bc54,0xd3bc5c,0xd3bc64|効果：ＨＰにダメージ|Inflicts horrific physical damage to the body.
+326|0xccfe80|0xd3bc50|範囲内のものにダメージを与える。|Causes harm to anything within range.
+327|0xccfe80|0xd3bc4c|効果：クリティカル率増加|Increases the bearer's Critical Hit attribute.
+328|0xccfe80|0xd3bc48|相手の弱点を見抜くことが出来るようになる。|Exposes an opponent's weaknesses to a keen eye.
+329|0xccfe80|0xd3bc44|効果：状態異常無効|Prevents abnormal status afflictions.
+330|0xccfe80|0xd3bc40|装備したものに結界を張る。|Creates an effulgent barrier around the bearer.
+331|0xccfe80|0xd3bc3c|効果：死なない|Extricates the bearer from the embrace of death.
+332|0xccfe80|0xd3bc38|装備したものは、一度だけ生き返る。|May only be used once.
+333|0xccfe80|0xd3bc34|効果：ＭＰ自動回復|Gradually restores the bearer's MP.
+334|0xccfe80|0xd3bc30|持っているだけで、精神に安らぎを与える石。|Merely holding it soothes shattered nerves.
+335|0xccfe80|0xd3bc2c|効果：ＨＰ自動回復|Gradually restores the bearer's HP.
+336|0xccfe80|0xd3bc28|持っているだけで、体に活力を与える石。|He lingers still, amidst sinister white mists.
+337|0xccfe80|0xd3bc24|効果：命中率増加|Increases the Accuracy attribute of the bearer.
+338|0xccfe80|0xd3bc20|持っているだけで、運が良くなる石。|It once belonged to a dreamer of good fortune.
+339|0xccfe80|0xd3bc1c|効果：ＭＰ消費量減少|Reduces the bearer's MP consumption.
+340|0xccfe80|0xd3bc18|持っていると、疲れ難い。|"Two hearts beat as one." is inscribed upon it.
+341|0xccfe80|0xd3bc14|効果：経験値取得増加|Increases the EX points gained from combat.
+342|0xccfe80|0xd3bc10|神秘な力によって経験値取得が増す。|A horrifying depiction of The Key and The Gate.
+343|0xccfe80|0xd3bc0c|効果：速さ・攻撃力増加|Increases Speed and Attack attributes.
+344|0xccfe80|0xd3bc08|呪力のこもった鱗を組み合わせた足甲。|These squamous boots have a hideous smell.
+345|0xccfe80|0xd3bc00|呪力がかかっており、素早さを高める。|Scorched by a curse that burns the soles.
+346|0xccfe80|0xd3bbfc|効果：速さ・移動力増加|Increases Speed and Movement Range attributes.
+347|0xccfe80|0xd3bbf8|音を消し、素早く移動するための草履。|Soft sandals that aid swift, silent movement.
+348|0xccfe80|0xd3bbf4,0xd3bc04,0xd3bd2c|効果：速さ増加|Increases the Speed attribute of the bearer.
+349|0xccfe80|0xd3bbf0|布で出来た靴。|Simple native shoes made from cloth.
+350|0xccfe80|0xd3bbec|効果：技量・ＭＰ増加|Increases Skill and MP attributes.
+351|0xccfe80|0xd3bbe8|所持者の技量を限界以上に高める装飾品。|Carved with an image of a fierce Shinto Kami.
+352|0xccfe80|0xd3bbe4|効果：技量・クリティカル率増加|Increases Skill and Critical Hit attributes.
+353|0xccfe80|0xd3bbe0|所持者の技量を引き出す装飾品。|Retrieved from labyrinths beneath the waves.
+354|0xccfe80|0xd3bbd8|はめたものの技量を高める腕輪。|From a phosphorescent palace below the waves.
+355|0xccfe80|0xd3bbd4,0xd3bbdc,0xd3bd24|効果：技量増加|Increases the Skill attribute of the bearer.
+356|0xccfe80|0xd3bbd0|所持者の技量を高める装飾品。|Carved with an image of unknown Mount Kadath.
+357|0xccfe80|0xd3bbc8|所有者の身を守る古代の宝石。|An ancient gem that resembles a Jōmon magatama.
+358|0xccfe80|0xd3bbc4,0xd3bbcc|効果：ＨＰ・守備力増加|Increases HP and Defense attributes.
+359|0xccfe80|0xd3bbc0|呪力の宿った黒真珠で作られた指輪。|A vile, stygian pearl from the shores of Mtal.
+360|0xccfe80|0xd3bbb8|身を守る効果のある指輪。|Engraved with an image of a six pointed branch.
+361|0xccfe80|0xd3bbb0|お守り効果のある指輪。|Engraved with an image of a five pointed star.
+362|0xccfe80|0xd3bba8|祭事のときに着用される神官の服。|Worn by Ogaeritō priestesses during rituals.
+118|0xccfe80|0xd3b68c|波打際|Waves
+363|0x5d30|0xd3bba4|効果：守備力・技量増加|Increases Defense and Skill attributes.
+364|0x5d30|0xd3bba0|神酒に浸した皮製の紐を編んで作った服。|Made from woven leather soaked in sacred wine.
+365|0x5d30|0xd3bb9c,0xd3bbac|効果：守備力・ＭＰ増加|Increases Defense and MP attributes.
+366|0x5d30|0xd3bb98|この島のミコが着る羽衣。|Sacred feathered robes worn by sorceresses.
+367|0x5d30|0xd3bb90|布で出来た服。防御効果は低い。|They barely provide protection from the rain.
+368|0x5d30|0xd3bb88|表面が魚の鱗状になった鎧。とても丈夫。|A glistening armour made of crustaceous scales.
+369|0x5d30|0xd3bb84,0xd3bb8c|効果：守備力増加 速さ減少|Increases Defense but decreases Speed.
+370|0x5d30|0xd3bb80|丸い金属製の輪を組み合わせた鎧。|Armour made of interlocking round metal rings.
+371|0x5d30|0xd3bb78|竹を編み、漆を塗った鎧。|Made of woven bamboo and painted with lacquer.
+372|0x5d30|0xd3bb70|動物のなめし革で出来た鎧。|Made from the tanned skin of an unknown beast.
+373|0x5d30|0xd3bb68|表面が魚の鱗状になった盾。とても丈夫。|This tough shield is made of eerie fish scales.
+374|0x5d30|0xd3bb60|鋼で出来た盾。効果が高いが重い。|Though heavy, it provides excellent protection.
+375|0x5d30|0xd3bb58|亀の甲羅で出来た盾。軽くて丈夫。|The beast that grew this shell swims no more.
+376|0x5d30|0xd3bb54,0xd3bb5c,0xd3bb64,0xd3bb6c,0xd3bb74,0xd3bb7c,0xd3bb94,0xd3bbb4,0xd3bbbc,0xd3bd1c,0xd3bd94,0xd3bdac|効果：守備力増加|Increases the Defense attribute of the bearer.
+377|0x5d30|0xd3bb50|木で出来た盾。|Made from Ogaeritō's gnarled and ancient trees.
+378|0x5d30|0xd3bb48|石を軽々と切り裂く魔剣。|It may even slice through cyclopean stone.
+379|0x5d30|0xd3bb40|骨まで砕ける剣。|A foul sword that shatters bones to dust.
+380|0x5d30|0xd3bb38|鉄で出来た剣。|A tenebrous blade forged from native iron.
+381|0x5d30|0xd3bb34,0xd3bb3c,0xd3bb44,0xd3bb4c|効果：攻撃力増加 戦士専用|Increases a warrior's Attack attribute.
+382|0x5d30|0xd3bb30|青銅で出来た剣。|A bronze bastard sword forged in a sombre land.
+383|0x5d30|0xd3bb14,0xd3bb1c,0xd3bb24,0xd3bb2c|効果：攻撃力・ＭＰ増加 呪術士専用|Increases dark magic Attack and MP attributes.
+384|0x5d30|0xd3bb10,0xd3bb18,0xd3bb20,0xd3bb28|呪術の力を引き出す腕輪。|A hideous rosary used in Ogaeritō rituals.
+385|0x5d30|0xd3bb0c|効果：攻撃力・ＭＰ増加 キリウ専用|Increases Kiriu's Attack and MP attributes.
+386|0x5d30|0xd3bb08|魚返島に伝わる伝説の神弓。|A sacred ancestral bow crafted on Ogaeritō.
+387|0x5d30|0xd3bb04|効果：攻撃力・射程増加 キリウ専用|Increases Kiriu's Attack and Range attributes.
+388|0x5d30|0xd3bb00|遠くの獲物を狙うための弓。|A bow designed to target distant prey.
+389|0x5d30|0xd3bafc|効果：攻撃力増加 毒 キリウ専用|Increases Kiriu's Poison Attack ability.
+390|0x5d30|0xd3baf8|矢に毒を塗った、暗殺用の弓。|A sinister bow favoured by assassins.
+391|0x5d30|0xd3baf4|効果：攻撃力増加 キリウ専用|Increases Kiriu's Attack attribute.
+392|0x5d30|0xd3baf0|短く邪魔にならない狩用の弓。|Easy to carry whilst hunting in the jungle.
+393|0x5d30|0xd3bae8|魚返島に伝わる伝説の戦斧。|A legendary ancestral axe forged on Ogaeritō.
+394|0x5d30|0xd3bae0|斧の刃が、三日月型をした戦斧。|A battle axe with a crescent moon shaped blade.
+395|0x5d30|0xd3badc,0xd3bae4,0xd3baec|効果：攻撃力増加 速さ減少 クロウ専用|Increases Crow's Attack but decreases his Speed.
+396|0x5d30|0xd3bad8|長い柄の戦闘用斧。|An impressive long handled battle axe.
+397|0x5d30|0xd3bad4|効果：攻撃力増加 クロウ専用|Increases Crow's Attack attribute.
+398|0x5d30|0xd3bad0|基本的には木を切るための斧。|A simple axe designed for cutting wood.
+399|0x5d30|0xd3bacc|効果：攻撃力・ＭＰ・技量増加 タケル専用|Increases Takeru's Attack, MP, and Skill.
+400|0x5d30|0xd3bac8|魚返島に伝わる伝説の神剣。|A sacred ancestral weapon forged on Ogaeritō.
+401|0x5d30|0xd3bac4|効果：攻撃力・技量増加 タケル専用|Increases Takeru's Attack and Skill attributes.
+402|0x5d30|0xd3bac0|日本刀に似た形状の刀。|A Japanese sword that resembles the Plough.
+403|0x5d30|0xd3bab8|金属製の刃がまっすぐの刀。|A straight sword popular before the katana.
+404|0x5d30|0xd3bab4,0xd3babc|効果：攻撃力増加 タケル専用|Increases Takeru's Attack attribute.
+405|0x5d30|0xd3bab0|石を削って作った刀。|A mysterious sword carved from cyclopean stone.
+406|0x5d30|0xd3baa8|金属の刃のついた小手。|Gauntlets with crescent moon shaped blades.
+407|0x5d30|0xd3baa4|効果：攻撃力増加 ハワード専用|Increases Howard's Attack attribute.
+408|0x5d30|0xd3baa0|金属製の攻撃用小手。|These nasty things often cause bone fractures.
+409|0x5d30|0xd3ba98|トゲがついて破壊力が増したグローブ。|Gloves studded with spikes to increase pain.
+410|0x5d30|0xd3ba94,0xd3ba9c,0xd3baac|効果：攻撃力・技量増加 ハワード専用|Increases Howard's Attack and Skill attributes.
+411|0x5d30|0xd3ba90|拳を保護する皮製のグローブ。|Leather gloves to protect the fists in combat.
+412|0x5d30|0xd3ba88|非常に威力の高いマシンガン。|An Austrian machine pistol designed in 1989.
+413|0x5d30|0xd3ba84|効果：攻撃力・範囲増加 玲司専用|Increases Reiji's Attack and Range attributes.
+414|0x5d30|0xd3ba80|威力の高いマシンガン。|Nicknamed the Grease Gun. In service since 1943.
+415|0x5d30|0xd3ba78|日本の誇る小銃。|The pride of Japan. In service since 1964.
+416|0x5d30|0xd3ba74,0xd3ba7c,0xd3ba8c|効果：攻撃力増加 玲司専用|Increases Reiji's Attack attribute.
+417|0x5d30|0xd3ba70|軽くて使いやすいマシンガン。|A lightweight and simple to use assault rifle.
+418|0x5d30|0xd3ba6c|効果：攻撃力・射程増加 ステーシー専用|Increases Stacy's Attack and Range attributes.
+419|0x5d30|0xd3ba68|発売禁止になった破壊的なスタンガン。|A taser so powerful its sale is now prohibited.
+420|0x5d30|0xd3ba60|バッテリーが優秀なスタンガン。|Its superior battery life is its main feature.
+421|0x5d30|0xd3ba58|威力の高い電撃棒。|A baton that delivers a vicious electric shock.
+422|0x5d30|0xd3ba54,0xd3ba5c,0xd3ba64|効果：攻撃力増加 ステーシー専用|Increases Stacy's Attack attribute.
+423|0x5d30|0xd3ba50|護身用の電撃アイテム。|A shockingly popular self-defense item.
+424|0x5d30|0xd3ba4c|効果：攻撃力・射程増加 主人公専用|Increases hero's Attack and Range attributes.
+425|0x5d30|0xd3ba48|威力があるが、反動も大きい銃。|It has enormous power with a violent recoil.
+426|0x5d30|0xd3ba40|使いやすく、威力も高い銃。|Hits like a brick through a plate glass window.
+427|0x5d30|0xd3ba38|威力がそこそこ高い銃。|A fairly powerful Italian machine pistol.
+428|0x5d30|0xd3ba34,0xd3ba3c,0xd3ba44|効果：攻撃力増加 主人公専用|Increases hero's Attack attribute.
+429|0x5d30|0xd3ba30|初心者にも使いやすい銃。|A simple American pistol, in service since 1911.
+430|0xcd1780|0xd3cc9c|マインドツイスト|Mind Twist
+431|0xcd1780|0xd3cc98|テラー|Terror
+432|0xcd1780|0xd3cc94|灼熱地獄|Scorching Hell
+433|0xcd1780|0xd3cc90|破壊光線|Destruction Beam
+434|0xcd1780|0xd3cc8c|爆裂光|Explosive Light
+435|0xcd1780|0xd3cc88|熱視線|Burning Gaze
+436|0xcd1780|0xd3cc84|黙示録|Moku'Shi'Roku
+437|0xcd1780|0xd3cc80|六魂呪|Roku'Kon'Jyu
+438|0xcd1780|0xd3cc7c|炎舞|Flame Dance
+439|0xcd1780|0xd3cc78|陽炎|Heat Haze
+440|0xcd1780|0xd3cc74|爆炎呪|Explosive Curse
+441|0xcd1780|0xd3cc70|幻舞|Illusion Dance
+442|0xcd1780|0xd3cc6c|炎の幻影|Fire Illusion
+443|0xcd1780|0xd3cc68|呪術|Weak Sorcery
+444|0xcd1780|0xd3cc64|真空裂衝|Vacuum Rupture
+445|0xcd1780|0xd3cc60|衝撃波|Shock Wave
+446|0xcd1780|0xd3cc5c|風撃|Prospero Hex
+447|0xcd1780|0xd3cc58|岩雪崩|Avalanche
+448|0xcd1780|0xd3cc54|岩石落とし|Rock Slide
+449|0xcd1780|0xd3cc50|石を投げる|Lapidation
+450|0xcd1780|0xd3cc4c|豪天襲|Heavenly Strike
+451|0xcd1780|0xd3cc48|急降下|Murderous Talons
+452|0xcd1780|0xd3cc44|飛空撃|Snarling Dive
+453|0xcd1780|0xd3cc40|突撃|Hideous Charge
+454|0xcd1780|0xd3cc3c|体当たり|Mangling Fall
+455|0xcd1780|0xd3cc38|凶酸|Kyu'San
+456|0xcd1780|0xd3cc34|トグの体液|Tog Fluid
+457|0xcd1780|0xd3cc30|溶解液|Yo'Kai'Eki
+458|0xcd1780|0xd3cc2c|酸を吐く|Acid Vomit
+459|0xcd1780|0xd3cc28|死霊の牙|Wraith's Fang
+460|0xcd1780|0xd3cc24|毒牙|Poison Fangs
+461|0xcd1780|0xd3cc20|噛みつく|Bite
+462|0xcd1780|0xd3cc1c|千手打撃|Kannon Strike
+463|0xcd1780|0xd3cc18|打ちつける|Battering
+464|0xcd1780|0xd3cc14|振り回す|Penetrate
+465|0xcd1780|0xd3cc10|触手|Shokushu
+466|0xcd1780|0xd3cc0c|双鞭蔦葛|Tsuta Whip
+467|0xcd1780|0xd3cc08|蔦地獄|Hedera Hell
+468|0xcd1780|0xd3cc04|蔦若葉|Thorn Flail
+469|0xcd1780|0xd3cc00|蔦|Ivy Lash
+470|0xcd1780|0xd3cbfc|水星胡蝶撃|Mercury Moth
+471|0xcd1780|0xd3cbf8|速射|Volley
+472|0xcd1780|0xd3cbf4|流星撃|Meteor Shot
+473|0xcd1780|0xd3cbf0|毒矢|Poison Arrow
+474|0xcd1780|0xd3cbec|遠射|Long Shot
+475|0xcd1780|0xd3cbe8|必中射|Bullseye
+476|0xcd1780|0xd3cbe4|射る|Nock Shot
+477|0xcd1780|0xd3cbe0|大地爆裂|Daichi Bakuretsu
+478|0xcd1780|0xd3cbdc|怪力無双切り|Supernatural Slash
+479|0xcd1780|0xd3cbd8|削岩撃|Sakugan Geki
+480|0xcd1780|0xd3cbd4|竜巻切り|Whirlwind Slash
+481|0xcd1780|0xd3cbd0|唐竹割り|Corpse Cleaver
+482|0xcd1780|0xd3cbcc|振り下ろす|Downwards Strike
+483|0xcd1780|0xd3cbc8|祖霊乱舞剣|Ancestral Dance
+484|0xcd1780|0xd3cbc4|霊光波動剣|Spiritual Sword
+485|0xcd1780|0xd3cbc0|烈風剣|Gale Sword
+486|0xcd1780|0xd3cbbc|かまいたち|Sickle Weasel
+487|0xcd1780|0xd3cbb8|一刀両断|Decisive Slash
+488|0xcd1780|0xd3cbb4|真空斬り|Vacuum Slash
+489|0xcd1780|0xd3cbb0|斬る|Slice
+490|0xcd1780|0xd3cbac|ハイボルテージ|High Voltage
+491|0xcd1780|0xd3cba8|サンダーボルト|Raku Rai
+492|0xcd1780|0xd3cba4|ライトニング|Kaminari
+493|0xcd1780|0xd3cba0|インパルス|Impulse
+494|0xcd1780|0xd3cb9c|ローボルテージ|Low Voltage
+495|0xcd1780|0xd3cb98|スタンガン|Illewik Bolt
+496|0xcd1780|0xd3cb94|ジェノサイド|Gyakusatsu Fire
+497|0xcd1780|0xd3cb90|ナイトメア|Akumu Shot
+498|0xcd1780|0xd3cb8c|バーストショット|Burst Shot
+499|0xcd1780|0xd3cb88|ランダムショット|Random Shot
+500|0xcd1780|0xd3cb84|シューティング|Covering Fire
+501|0xcd1780|0xd3cb80|マシンガン|Suppressive Fire
+502|0xcd1780|0xd3cb7c|ボルカニック|Kazan Uppercut
+503|0xcd1780|0xd3cb78|ラッシュ|Rush Down
+504|0xcd1780|0xd3cb74|ダブルフィスト|One Two Punch
+505|0xcd1780|0xd3cb70|コンビネーション|Pummelling
+506|0xcd1780|0xd3cb6c|ヘビーフック|Right Hook
+507|0xcd1780|0xd3cb68|パンチ|Punch
+508|0xcd1780|0xd3cb64,0xd3ce04,0xd3ce1c,0xd3ce64,0xd3ce74,0xd3ce80,0xd3ce84,0xd3ce8c,0xd3cea4,0xd3ceb4,0xd3cebc,0xd3ceec,0xd3cefc,0xd3cf1c,0xd3cf44,0xd3cf54,0xd3cf5c,0xd3cf84,0xd3cf94,0xd3cfbc,0xd3cfdc,0xd3cffc,0xd3d00c,0xd3d014,0xd3d034,0xd3d03c,0xd3d044,0xd3d04c,0xd3d05c,0xd3d064,0xd3d074,0xd3d0b4,0xd3d0cc,0xd3d314,0xd3d31c||
+509|0xcd1780|0xd3cb60|屍鬼の魔爪|Corpse Claws
+510|0xcd1780|0xd3cb5c|海魔の鈎爪|Sea Demon Talons
+511|0xcd1780|0xd3cb58|毒爪|Poisonous Claws
+512|0xcd1780|0xd3cb54|引き裂く|Rip and Tear
+513|0xcd1780|0xd3cb50|掻きむしる|Kimotori Slash
+514|0xcd1780|0xd3cb4c|呪いの爪|Cursed Claws
+515|0xcd1780|0xd3cb48|急所打ち|Vital Slice
+516|0xcd1780|0xd3cb44|毒手|Kun'yan Claws
+517|0xcd1780|0xd3cb40|目つぶし|Blinding Sand
+518|0xcd1780|0xd3cb3c|引っ掻く|Scratch
+519|0xcd1780|0xd3cb38|急所狙撃|Critical Shot
+520|0xcd1780|0xd3cb34|連続射撃|Blind Fire
+521|0xcd1780|0xd3cb30|精密射撃|Sniper Shot
+522|0xcd1780|0xd3cb2c|威嚇射撃|Suppressing Fire
+523|0xcd1780|0xd3cb28|狙撃|Precision Shot
+524|0xcd1780|0xd3cb24|撃つ|Shoot
+525|0xcd1780|0xd3cb20|掌打|Palm Strike
+526|0xcd1780|0xd3cb1c|殴る|Punch
+527|0xcd1780|0xd3cdec|狂乱の吠え声|Kyoran'Ho'Eh'Goe
+528|0xcd1780|0xd3cde8|夢魔の叫び|Muma'Sakebi
+529|0xcd1780|0xd3cde4|戦いの雄叫び|Battle Cry
+530|0xcd1780|0xd3cde0|狂気の声|Insane Wail
+531|0xcd1780|0xd3cddc|叫ぶ|Shriek
+532|0xcd1780|0xd3cdd8|呪縛隷輝|Binding Curse
+533|0xcd1780|0xd3cdd4|ヒュドラの瞳|Hydra Eyes
+534|0xcd1780|0xd3cdd0|メデューサの瞳|Medusa Eyes
+535|0xcd1780|0xd3cdcc|自己催眠|Self Hypnosis
+536|0xcd1780|0xd3cdc8|魅惑眼|Alluring Eyes
+537|0xcd1780|0xd3cdc4|邪眼|Wicked Eyes
+538|0xcd1780|0xd3cdc0|イビルアイ|Evil Eyes
+539|0xcd1780|0xd3cdbc|魅了眼|Bewitching Eyes
+540|0xcd1780|0xd3cdb8|くぐつの瞳|Puppet Eyes
+541|0xcd1780|0xd3cdb4|見つめる|Glassy Eyes
+542|0xcd1780|0xd3cdb0|サモンストーン|Summon Stone
+543|0xcd1780|0xd3cdac|サモンダークネス|Summon Darkness
+544|0xcd1780|0xd3cda8|インフラサウンド|Infrasound
+545|0xcd1780|0xd3cda4|ソニックウェーブ|Footsteps of Zos
+546|0xcd1780|0xd3cda0|バッドノイズ|Hideous Noise
+547|0xcd1780|0xd3cd9c|邪神の呪縛|Jya'Shin's Curse
+548|0xcd1780|0xd3cd98|祝呪|Jya'Shin Prayer
+549|0xcd1780|0xd3cd94|呪魂|Tawil At'Umr Hex
+550|0xcd1780|0xd3cd90|呪言|Yoth-Tlaggon Hex
+551|0xcd1780|0xd3cd8c|癒しの葉|Iyashi'no'Ha
+552|0xcd1780|0xd3cd88|木の葉乱舞|Ha'Ranbu
+553|0xcd1780|0xd3cd84|木の葉時雨|Jigure
+554|0xcd1780|0xd3cd80|木の葉|Ha'Pa
+555|0xcd1780|0xd3cd7c|夢魔の芳香|Nightmare Scent
+556|0xcd1780|0xd3cd78|甘い吐息|Sweet Retching
+557|0xcd1780|0xd3cd74|腐臭|Rotting Stench
+558|0xcd1780|0xd3cd70|呪殺針|Cursed Talons
+559|0xcd1780|0xd3cd6c|めった刺し|Frenzied Stab
+560|0xcd1780|0xd3cd68|無明針|Avidya Stinger
+561|0xcd1780|0xd3cd64|しびれ針|Numbing Stinger
+562|0xcd1780|0xd3cd60|刺す|Maul
+563|0xcd1780|0xd3cd5c|暗黒の濃霧|Dark Fog
+564|0xcd1780|0xd3cd58|海魔の邪墨|Sea Demon's Ink
+565|0xcd1780|0xd3cd54|墨を吐く|Ink Vomit
+566|0xcd1780|0xd3cd50|生気爆吸|Seiki'Bakkyu
+567|0xcd1780|0xd3cd4c|吸魂|Kyu'Kon
+568|0xcd1780|0xd3cd48|呪いの屍血|Corpse Blood
+569|0xcd1780|0xd3cd44|精気吸収|Spirit Suck
+570|0xcd1780|0xd3cd40|吸血|Blood Suck
+571|0xcd1780|0xd3cd3c|変身を解く|Detransform
+572|0xcd1780|0xd3cd38|変身する|Transform
+573|0xcd1780|0xd3cd34|ハウリング|Howl
+574|0xcd1780|0xd3cd30|アンチマインド|Anti-Mind
+575|0xcd1780|0xd3cd2c|アンチパラライズ|Anti-Paralysis
+576|0xcd1780|0xd3cd28|アンチカース|Anti-Curse
+577|0xcd1780|0xd3cd24|アンチチャーム|Anti-Charm
+578|0xcd1780|0xd3cd20|分析する|Analyse
+579|0xcd1780|0xd3cd1c|観察する|Observe
+580|0xcd1780|0xd3cd18|偵察する|Reconnaissance
+581|0xcd1780|0xd3cd14|激励|Encourage
+582|0xcd1780|0xd3cd10|脱力|Exhaustion
+583|0xcd1780|0xd3cd0c|笛を吹く|Play the Flute
+584|0xcd1780|0xd3cd08|オールケア|All Cure
+585|0xcd1780|0xd3cd04|３メンタルケア|Tripartite Cure
+586|0xcd1780|0xd3cd00|ブラインドケア|Blindness Cure
+587|0xcd1780|0xd3ccfc|毒消し|Antidote
+588|0xcd1780|0xd3ccf8|デストロイ|Concentrated Fire
+589|0xcd1780|0xd3ccf4|コンフューズ|Sakuran Shot
+590|0xcd1780|0xd3ccf0|ワーニングショット|Warning Shot
+591|0xcd1780|0xd3ccec|ゴッドハンド|Hands of God
+592|0xcd1780|0xd3cce8|癒しの手|Healing Hands
+593|0xcd1780|0xd3cce4|リペア|Lime Resin
+594|0xcd1780|0xd3cce0|ハイヒーリング|High Healing
+595|0xcd1780|0xd3ccdc|ペインキラー|Painkillers
+596|0xcd1780|0xd3ccd8|ヒーリング|Healing
+597|0xcd1780|0xd3ccd4|治癒|Cure
+598|0xcd1780|0xd3ccd0|応急処置|First Aid
+599|0xcd1780|0xd3cccc|フェイントケア|Fainting Cure
+600|0xcd1780|0xd3ccc8|祈る|Pray
+601|0xcd1780|0xd3ccc4|応援する|Support
+602|0xcd1780|0xd3ccc0|励ます|Encourage
+603|0xcd1780|0xd3ccbc|力をためる|Conserve Energy
+604|0xcd1780|0xd3ccb8|身を守る|Protect
+605|0xcd1780|0xd3ccb4|自己暗示|Auto-Suggestion
+606|0xcd1780|0xd3ccb0|精神統一|Concentration
+607|0xcd1780|0xd3ccac|めいそう|Meditation
+608|0xcd1780|0xd3cca8|足さばき|Footwork
+609|0xcd1780|0xd3cca4|見切る|Perception
+610|0xcd1780|0xd3cca0|警戒する|Vigilance
+611|0xcd1780|0xd3d0f4|相手に強力なダメージを与える。|this hex distorts the mind, causing great pain.
+612|0xcd1780|0xd3d0f0|黒魔術によって|By means of  blasphemous dark magick,
+613|0xcd1780|0xd3d0e8|生きものに恐怖を与える呪文。|A hex that terrifies the living mind.
+614|0xcd1780|0xd3d0e4|相手に地獄の苦しみを与える。|that inflict hellish torment and suffering.
+615|0xcd1780|0xd3d0e0|全てを燃やし尽くす灼熱の炎に包まれ|The target is enshrouded in scorching flames
+616|0xcd1780|0xd3d0dc|線上の相手に大ダメージを与える。|scours any foes standing in rank and file.
+617|0xcd1780|0xd3d0d8|ビーム状の高熱の光線が走り、|A searing beam of burning unnatural radiance
+618|0xcd1780|0xd3d0d4|範囲内の相手に壊滅的なダメージを与える。|inflicting agony upon those in its radiance.
+619|0xcd1780|0xd3d0d0|高熱の光が走り、|A torrid beam of light rakes the ground
+620|0xcd1780|0xd3d0c8|邪眼の力で見たものを焼き尽くす。|An accursed vile gaze chars all it beholds.
+621|0xcd1780|0xd3d0c4|追加効果：気絶|Victims become stupefied in fear.
+622|0xcd1780|0xd3d0c0|生きる者の不快感を刺激する暗黒の呪術。|K'yarnak phlegethor l'ebumna syha'h n'ghft!
+623|0xcd1780|0xd3d0b8|絶対的な呪いの力で相手を攻撃する。|S'uhn-ngh athg li'hee orr'e syha'h!
+624|0xcd1780|0xd3d0b0|超破壊的な呪術爆発で相手を燃やし尽くす。|A cataclysmic blast that reduces foes to ashes.
+625|0xcd1780|0xd3d0ac|壊滅的なダメージを与える。|Inflicts devastation beyond human comprehension.
+626|0xcd1780|0xd3d0a8|邪神に祈りを捧げ、範囲内の相手に|Offers a prayer to the dead god Jya'Shin.
+627|0xcd1780|0xd3d0a0|熱心な祈りによって爆発的な炎を呼び、|Summons a bursting inferno with fervent rites.
+628|0xcd1780|0xd3d09c|実際に炎を空中に生み出し相手を攻撃する。|in a cursed dance of phantasmal dread.
+629|0xcd1780|0xd3d098|幻想的な呪いの舞いによって|Witch flame blooms in mid-air incinerating foes
+630|0xcd1780|0xd3d090|炎の幻で相手の精神に働きかけ|Gnaw at a foe's sanity with an illusory inferno.
+631|0xcd1780|0xd3d08c,0xd3d094|実際にダメージを与えてしまう呪術。|A mental assault that causes intense pain.
+632|0xcd1780|0xd3d088|相手の精神に働きかけ、|Sorcery that may shatter and crush a foe's mind.
+633|0xcd1780|0xd3d084|範囲内の相手を切り刻む。|to hew and mangle any adjacent foes.
+634|0xcd1780|0xd3d080|真空の刃によって、|Fracture a void in Non-Euclidean space
+635|0xcd1780|0xd3d07c|相手に大ダメージを与える。|inflicts immense damage on the human body.
+636|0xcd1780|0xd3d078|衝撃波を一箇所に集中してぶつけ、|Induces a concentrated pressure shockwave that
+637|0xcd1780|0xd3d070|強い風を起こし、相手にダメージを与える。|Conjures a howling tempest, that rends flesh.
+638|0xcd1780|0xd3d068|複数の岩を連続して投げつけ、|Hurls numerous large rocks one after another.
+639|0xcd1780|0xd3d060|巨大な岩を相手にぶつけダメージを与える。|Mercilessly heaves a cyclopean boulder at foes.
+640|0xcd1780|0xd3d058|石を投げ、相手にダメージを与える。|Callously pitches numerous small stones at foes.
+641|0xcd1780|0xd3d054|相手を粉砕する。|and crushes them in its stony arms.
+642|0xcd1780|0xd3d050|高速移動によって生じた全ての力で|Descends upon its victims in a ghastly swiftness
+643|0xcd1780|0xd3d048|勢いをつけた体当たりで相手を攻撃する。|Ferociously claws at victims in homicidal rage.
+644|0xcd1780|0xd3d040|スピードを乗せた強力な体当たり。|Viciously dives at victims in demonic glee.
+645|0xcd1780|0xd3d038|硬い甲羅ごと相手に激突する。|Assaults victims using its rough carapace.
+646|0xcd1780|0xd3d030|体当たりで相手を攻撃する。|Plunges towards victims with membraneous wings.
+647|0xcd1780|0xd3d02c,0xd3d06c,0xd3d0a4|範囲内の相手に大ダメージを与える。|Inflicts great physical harm to those nearby.
+648|0xcd1780|0xd3d028|何物をも溶かす凶悪強力な酸によって|Disgorges foul acid that melts all it touches.
+649|0xcd1780|0xd3d020|体に流れる酸を飛ばし、|It discharges the foul acid flowing through
+650|0xcd1780|0xd3d018|溶解液を吐き出し、広範囲の相手に|Sprays horrid corrosive acid at nearby foes.
+651|0xcd1780|0xd3d010|酸で範囲内の相手にダメージを与える。|its body, burning all those nearby.
+652|0xcd1780|0xd3d008|頑強な牙によって相手を噛み砕く。|Bites chunks from victims in a voracious rage.
+653|0xcd1780|0xd3d000|相手の体力を確実に奪う毒の牙による攻撃。|Vile carrion coated teeth infect those it bites.
+654|0xcd1780|0xd3cff8|鋭い歯によって相手に噛み付く。|It sinks filthy rotten teeth into soft flesh.
+655|0xcd1780|0xd3cff4|相手を粉砕する一撃必殺技。|and crush victims in a single savage blow.
+656|0xcd1780|0xd3cff0|何本にも分かれた触手が束になり|Stranded tentacles form a dense hefty bundle,
+657|0xcd1780|0xd3cfec|鋭い一撃で相手を攻撃する。|then lashes out delivering a sharp blow.
+658|0xcd1780|0xd3cfe8|触手を鞭のようにしならせ、|It flexes it's repugnant tentacles like whips,
+659|0xcd1780|0xd3cfe4,0xd3d01c|ダメージを与える。|Inflicts great physical damage to the body.
+660|0xcd1780|0xd3cfe0|重い触手によって、体の内部にまで|Engorged, elongated organs perforate the flesh.
+661|0xcd1780|0xd3cfd8|触手によって攻撃を行う。|Revolting tentacles flail at victims.
+662|0xcd1780|0xd3cfd4|鞭のようにして連続攻撃を行う。|Incessantly lashes the victim, drawing blood.
+663|0xcd1780|0xd3cfd0|蔦をしならせ、|It squirms and twists grotesquely on the trees.
+664|0xcd1780|0xd3cfc8|鋭いトゲの生えた蔦を相手に叩きつけ|Sharp thorns rend and tear at the victims flesh.
+665|0xcd1780|0xd3cfc0|鋭いトゲの生えた蔦によって|The vicious thorns sunder muscle and sinew.
+666|0xcd1780|0xd3cfb8|蔦で攻撃を行う。|Flays and lacerates the skin in a nasty assault.
+667|0xcd1780|0xd3cfb4|それを全て相手１体に命中させる高度な技。|An advanced technique which hits multiple foes.
+668|0xcd1780|0xd3cfa8|目に見えない速さで連続して矢を射て|Arrows which fly faster than human perception.
+669|0xcd1780|0xd3cfa4|広範囲に攻撃を行う。|using spiritually significant movements.
+670|0xcd1780|0xd3cfa0,0xd3cfb0|大量の矢を一度に射ち上げ、|Shoots a hail of arrows across a wide area.
+671|0xcd1780|0xd3cf98|毒を塗った矢で相手を攻撃する。|Noxious arrows which cause great suffering.
+672|0xcd1780|0xd3cf90|通常よりも離れた相手を攻撃出来る。|Deadly bolts which may even hit far off foes.
+673|0xcd1780|0xd3cf88|狙いを鋭くし、必ず矢を当てる。|Deep focus ensures the arrow finds its mark.
+674|0xcd1780|0xd3cf80|弓で離れた相手を攻撃する。|Attack with ancient Ogaeritō archery techniques.
+675|0xcd1780|0xd3cf7c|威力を込めた、無敵の必殺技。|An indomitable attack of horrendous power.
+676|0xcd1780|0xd3cf78|地面が噴火したかのように爆裂する|The ground erupts as if releasing buried horror.
+677|0xcd1780|0xd3cf74|しかし、命中率は低い。|It requires such strength that it rarely lands.
+678|0xcd1780|0xd3cf70|全力を込めた、一撃必殺の攻撃。|A lethal stroke wrought with utmost force.
+679|0xcd1780|0xd3cf68|岩をも削る威力の技で、|A ferocious attack that may even sunder stone.
+680|0xcd1780|0xd3cf64,0xd3d024|範囲内の相手にダメージを与える。|All nearby foes are lashed by its howling wrath.
+681|0xcd1780|0xd3cf60|竜巻状の風の刃によって、|A hideous slash that conjures shrieking winds.
+682|0xcd1780|0xd3cf58|相手を真っ二つにするかのような攻撃。|A grisly stroke that rends the foe in twain.
+683|0xcd1780|0xd3cf50|木を切るかのように相手を攻撃する。|The blade falls as an axe upon doomed timber.
+684|0xcd1780|0xd3cf4c|相手を粉砕する一撃必殺の剣技。|A crushing blow that pulverises foes in a single welt.
+685|0xcd1780|0xd3cf48|剣技に長けた祖先の霊を自らに宿し|Summons elder spirits to guide the blade home.
+686|0xcd1780|0xd3cf40|剣に動物霊を宿し、攻撃力を高めた技。|Infuses the sword with ferocious animal spirits.
+687|0xcd1780|0xd3cf3c|直線上の相手を斬り刻む。|forth, keenly rending flesh and crushing bone.
+688|0xcd1780|0xd3cf38|剣風によって生み出した鋭い真空の刃で|A shrieking blade of pure vacuum energy scythes
+689|0xcd1780|0xd3cf34|真空の刃によって離れた相手をも攻撃する。|wind, which inflicts cold painless wounds.
+690|0xcd1780|0xd3cf2c|相手に大きなダメージを与える。|The precision causes great harm.
+691|0xcd1780|0xd3cf28|剣に気合いを込め、|A single stroke delivered with deadly resolve.
+692|0xcd1780|0xd3cf24|風の刃によって離れた相手をも攻撃する。|wind which may even assail distant foes.
+693|0xcd1780|0xd3cf20,0xd3cf30|鋭い剣先のスピードによって生じた|The speed of the blade creates a gust of biting
+694|0xcd1780|0xd3cf18|剣で相手を斬る。|A singular expertly delivered slash.
+695|0xcd1780|0xd3cf10|相手を高確率でマヒさせる電撃攻撃。|A searing jolt that often paralyses foes.
+696|0xcd1780|0xd3cf08|ダメージを与えた相手は、高確率でマヒする。|A fell bolt that numbs and binds the flesh.
+697|0xcd1780|0xd3cf00|電圧を調整し、相手にダメージを与える。|A savage blast that inflicts deep tissue burns.
+698|0xcd1780|0xd3cef8|高電圧の電気で相手にダメージを与える。|A ferocious jolt that causes cardiac arrhythmia.
+699|0xcd1780|0xd3cef4,0xd3cf04,0xd3cf0c,0xd3cf14|追加効果：マヒ|Those struck suffer temporary paralysis.
+700|0xcd1780|0xd3cef0|低電圧で相手の自由を奪う。|A weak current that induces muscle spasms.
+701|0xcd1780|0xd3cee8|電気ショックで相手にダメージを与える。|A jarring shock which torments the flesh.
+702|0xcd1780|0xd3cee4|広範囲の相手に大ダメージを与える。|scouring all those caught in its dreadful arc.
+703|0xcd1780|0xd3cee0|マシンガンを乱射し、|A thunderous hail of iron rends the flesh,
+704|0xcd1780|0xd3cedc|神経は使うが、精度、威力ともに高い攻撃。|with great accuracy and tremendous power.
+705|0xcd1780|0xd3ced8|狭い範囲に集中して射撃を行う。|A precise storm of lead descends, unerring,
+706|0xcd1780|0xd3ced4|マシンガンを乱射し、広範囲に攻撃を行う。|wide, each shot guided by pure vengeance.
+707|0xcd1780|0xd3ced0|狙いを正確に行いつつ、|A ruthlessly precise rain of bullets spreads
+708|0xcd1780|0xd3cecc|精度は下がるが、広範囲に攻撃を行える。|across a large area. 
+709|0xcd1780|0xd3cec8|あまり狙いをつけずマシンガンを乱射する。|Casts a wild volley of indiscriminate lead
+710|0xcd1780|0xd3cec0|狙いを集中し、離れた相手１体に|Concentrates fire on a single distant enemy.
+711|0xcd1780|0xd3ceb8|マシンガンで広い範囲に攻撃を行う。|The rifle weight is balm to the vengeful soul.
+712|0xcd1780|0xd3ceb0|地面を削る威力のある、殺人パンチ。|A blow that reduces foes to corpses in the dirt.
+713|0xcd1780|0xd3ceac,0xd3cec4,0xd3cfcc|高ダメージを与える。|Inflicts great physical damage.
+714|0xcd1780|0xd3cea8|華麗なテクニックで、周り全ての相手に|Strikes nearby foes with beautiful technique.
+715|0xcd1780|0xd3cea0|一瞬の内に、連続でパンチを放つ。|Punches twice in blinding succession.
+716|0xcd1780|0xd3ce9c,0xd3cfc4|相手にダメージを与える。|Inflicts swift pain to foes.
+717|0xcd1780|0xd3ce98|華麗なステップで、自分の周りの全ての|Overwhelms foes with graceful footwork.
+718|0xcd1780|0xd3ce94,0xd3cf6c,0xd3cfac|相手に高ダメージを与える。|Inflicts great physical damage.
+719|0xcd1780|0xd3ce90|弧を描く、鋭い軌跡のパンチで|A sharp arc blow ending in a painful slug.
+720|0xcd1780|0xd3ce88|鍛えた拳で相手にダメージを与える。|Utilises refined pugilist skills to attack foes.
+721|0xcd1780|0xd3ce78|呪われた爪で相手に呪いを刻み込む。|Bony, scaly claws which inflict fiendish curses.
+722|0xcd1780|0xd3ce70|鋭い爪で、相手に致命傷を与える。|Grotesque beyond imagination but damnably human.
+723|0xcd1780|0xd3ce68|毒化した爪で相手を攻撃する。|Gnarled, bony claws dripping in monstrous venom.
+724|0xcd1780|0xd3ce60|鋭い爪で相手を攻撃する。|With bony claws, they feast upon rotten corpses.
+725|0xcd1780|0xd3ce5c|追加効果：ランダム・ステータス異常|Those struck suffer a random status abnormality.
+726|0xcd1780|0xd3ce58|意思を込めた爪で、縦横無尽に切り刻む。|Slashing claws that aim to gouge out the liver.
+727|0xcd1780|0xd3ce54,0xd3ce7c,0xd3d0bc|追加効果：呪い|Inflicts the horrifying curse of a dead God... 
+728|0xcd1780|0xd3ce50|この攻撃を受けると、呪われる場合がある。|The flesh rots away, revealing hideous scales...
+729|0xcd1780|0xd3ce4c,0xd3cf8c|追加効果：激痛|Those struck suffer intense pain.
+730|0xcd1780|0xd3ce48|相手の急所を見極めて鋭い爪で攻撃する。|A rending slash that aims for a foe's viscera.
+731|0xcd1780|0xd3ce40|毒を分泌した手で相手を攻撃する。|Strikes the foe with infested bubonic claws.
+732|0xcd1780|0xd3ce3c|追加効果：盲目|Those struck suffer temporary blindness.
+733|0xcd1780|0xd3ce38|相手の目を狙って攻撃する。|A cloud of moaning sand assails the eyes.
+734|0xcd1780|0xd3ce34,0xd3ce44,0xd3ce6c,0xd3cf9c,0xd3d004|追加効果：毒|Poisons victims with a vicious toxin.
+735|0xcd1780|0xd3ce30|鋭い爪で相手を引っ掻く。|Slashes at foes with murderously sharp claws.
+736|0xcd1780|0xd3ce2c|当ると、かなりのダメージを相手に与える。|physical pain.
+737|0xcd1780|0xd3ce28|相手の急所を見極めて銃をうつため、|Aims at a foe's weak points, causing great
+738|0xcd1780|0xd3ce24|精度は下がるが、当った場合の威力は高い。|A hail of wild bullets sweeps the enemy position.
+739|0xcd1780|0xd3ce20|あまり狙いをつけず、銃を乱射する。|Fires the weapon without a care for accuracy.
+740|0xcd1780|0xd3ce18|射撃の精度が上がるため、威力が高くなる。|Fires with a stance that increases accuracy.
+741|0xcd1780|0xd3ce14,0xd3d0ec|追加効果：臆病|Those struck are wracked by cowardice and fear.
+742|0xcd1780|0xd3ce10|銃を乱射し、相手を威嚇しつつ攻撃する。|Fires wildly to intimidate and frighten foes.
+743|0xcd1780|0xd3ce0c|威力が高い。|resulting in a more devastating shot.
+744|0xcd1780|0xd3ce08|良く狙って撃つため、ただ銃を撃つよりも|A momentary pause allows for increased accuracy,
+745|0xcd1780|0xd3ce00|銃で離れた場所の相手を撃つ。|Fire at distant foes with an automatic weapon.
+746|0xcd1780|0xd3cdf4,0xd3cdfc|ダメージを与えるが、倒すことは出来ない。|Not deadly enough to kill, but will cause pain.
+747|0xcd1780|0xd3cdf0,0xd3cdf8|相手を素手で攻撃する。|Strike foes in a pugnacious rage.
+748|0xcd1780|0xd3d390|辺り一面の相手を混乱にする吠え声。|Y'ai 'ng'ngah, Jya'Shin h'ee l'geb f'ai throdog!
+749|0xcd1780|0xd3d388|広範囲の相手に恐怖心を感じさせる叫び声。|Ygnaiih thflthkh'ngha Jya'Shin!
+750|0xcd1780|0xd3d380|回りの相手を混乱におとしいれる雄叫び。|A roar that throws all nearby into confusion.
+751|0xcd1780|0xd3d378|範囲内の相手に恐怖心を感じさせる叫び声。|A ghastly yowl that swiftly induces cowardice.
+752|0xcd1780|0xd3d370|生きものに恐怖心を感じさせる叫び声。|A horrific scream that suddenly induces cowardice.
+753|0xcd1780|0xd3d368|相手に呪縛をかけ、状態に異常を起こす。|A hoarse voice mutters a terrible rite "Ph'nglui
+754|0xcd1780|0xd3d360|自分に催眠術をかけ、状態異常を回復する。|Hypnotizes the self, curing all abnormalities.
+755|0xcd1780|0xd3d358|相手の眼を見つめ、行動を止めてしまう。|Petrifies foes in place with a grotesque glare.
+756|0xcd1780|0xd3d350|自分に暗示をかけ、ＭＰを回復する。|Recovers MP with the power of suggestion.
+757|0xcd1780|0xd3d348|魅惑眼によって多数の相手を魅了する。|Bewitches victims with luminous bulging eyes.
+758|0xcd1780|0xd3d340|邪眼で見つめて相手を混乱させる。|Confuses victims with a single repulsive glance.
+759|0xcd1780|0xd3d338|相手の眼を覗き込み、精神を混乱させる。|Confuses a foe merely by leering at them.
+760|0xcd1780|0xd3d330|魅了眼によって相手を魅了する。|Bewitches victims with glassy loathsome eyes.
+761|0xcd1780|0xd3d328|見つめて相手を意のままに操る。|A mere gaze that may manipulate victims at will.
+762|0xcd1780|0xd3d324,0xd3d32c,0xd3d334,0xd3d34c|効果：魅了|Foes are bewitched and refrain from aggression.
+763|0xcd1780|0xd3d320|見つめて相手を魅了する。|An evil, sardonic stare, that makes foes shiver.
+764|0xcd1780|0xd3d318|バハルナ秘術でゴーレムを１体召喚する。|Summons a Kauran by ancient Baharnan rituals.
+765|0xcd1780|0xd3d310|バハルナ秘術でガーゴイルを１体召喚する。|Secret Baharnan rituals that summon a Vyōne.
+766|0xcd1780|0xd3d308|低周波音で範囲内の相手を気絶させる。|Stuns nearby victims with a low frequency noise.
+767|0xcd1780|0xd3d300|衝撃音によって範囲内の相手を気絶させる。|The horrific cackling of children stuns victims.
+768|0xcd1780|0xd3d2fc,0xd3d304,0xd3d30c|効果：気絶|Those struck by the cacophony become stunned.
+769|0xcd1780|0xd3d2f8|不快な音によって相手を気絶させる。|A piercing shriek follows a noxious stench.
+770|0xcd1780|0xd3d2f4,0xd3d36c|効果：ランダム・ステータス異常|mglw'nafh Jya'Shin R'lyieer wgah'nagl fhtagn!"
+771|0xcd1780|0xd3d2f0|邪神の力で相手の状態を変化させてしまう。|A hoarse voice chants a hideous rite "Ph'nglui
+772|0xcd1780|0xd3d2ec|効果：ＨＰの回復|Those blessed have their HP restored.
+773|0xcd1780|0xd3d2e8|呪術の力によって体力を回復させる。|Offers a prayer to the dead god Jya'Shin.
+774|0xcd1780|0xd3d2e0|広範囲内の相手に呪いをかける|An abhorrent curse that seizes all who hear it.
+775|0xcd1780|0xd3d2d8|範囲内の相手に呪いをかける|An obscene hex that curses all nearby.
+776|0xcd1780|0xd3d2d0|全てを癒す木の葉をまく。|Drops leaves with miraculous healing abilities.
+777|0xcd1780|0xd3d2c8|治癒効果の高い木の葉をまき散らす。|Causes repulsive healing leaves to grow.
+778|0xcd1780|0xd3d2c0|体力増強効果のある木の葉をまく。|Grows loathsome leaves that increase stamina.
+779|0xcd1780|0xd3d2b8|回復能力を高める木の葉をまく。|Scatters abominable stamina restoring leaves.
+780|0xcd1780|0xd3d2b0|判断力を奪う毒の息を吐きかける。|It's foul poisonous breath stuns victims.
+781|0xcd1780|0xd3d2a8|精神に異常を起こす毒の息を吐きかける。|It's noxious breath causes mental abnormalities.
+782|0xcd1780|0xd3d2a0|腐った臭いの息で相手を混乱させる。|Stupefies victims with its putrid breath.
+783|0xcd1780|0xd3d298|呪いの気のこもった針で相手を刺す。|Lacerates victims with ferocious cursed talons.
+784|0xcd1780|0xd3d290|範囲内の相手を針で刺す。|The stinger stabs wildly perforating all nearby.
+785|0xcd1780|0xd3d288|目のツボを刺し一時的に視界を奪う。|Talons claw at the eyes, causing blindness.
+786|0xcd1780|0xd3d284,0xd3d35c|効果：マヒ|Victims suffer temporary paralysis.
+787|0xcd1780|0xd3d280|しびれ針で相手を刺す。|Foes are penetrated with a large barb.
+788|0xcd1780|0xd3d27c,0xd3d294|効果：激痛|Those lacerated suffer intense pain.
+789|0xcd1780|0xd3d278|針で相手の急所を刺す。|Sharp talons aim for the entrails of the victim.
+790|0xcd1780|0xd3d270|魔墨を吐き広範囲の相手の視界を奪う。|It spews greyish green mist, blinding victims.
+791|0xcd1780|0xd3d268|邪墨を吐き範囲内の相手の視界を奪う。|It vomits ghastly black ink, blinding victims.
+792|0x6900|0xd3d264,0xd3d26c,0xd3d274,0xd3d28c|効果：盲目|Those struck suffer temporary blindess.
+793|0x6900|0xd3d260|墨を吐き相手の視界を奪う。|It spews dark ink from its vile white belly.
+794|0x6900|0xd3d258|相手の生気を吸いＭＰを回復する。|Ia! Ia! Jya'Shin fhtagn!
+795|0x6900|0xd3d250|相手の魂の力を吸いＨＰを回復する。|Ia! Ia! Jya'Shin fhtagn!
+796|0x6900|0xd3d24c,0xd3d29c,0xd3d2dc,0xd3d2e4|効果：呪い|Inflicts the horrifying curse of a dead God...
+797|0x6900|0xd3d248|相手の血をすすり呪いをかける。|Drinking a victim's blood, it glibbers curses.
+798|0x6900|0xd3d244,0xd3d25c|効果：ＭＰ吸収|Imbibes and absorbs the MP of victims.
+799|0x6900|0xd3d240|相手の精気を吸いＭＰを回復する。|A fiendishly blasphemous, mould caked creature.
+800|0x6900|0xd3d23c,0xd3d254|効果：ＨＰ吸収|Imbibes and absorbs the blood of its victims.
+801|0x6900|0xd3d238|相手の血を吸いＨＰを回復する。|These creatures thrive on charnel nourishment.
+802|0x6900|0xd3d234|効果：人間に戻る|the body, restoring rationality and humanity.
+803|0x6900|0xd3d230|変身を解いて人間の姿に戻る。|Reverses the eldritch transformation of
+804|0x6900|0xd3d22c|効果：モンスター化（一定時間で混乱する）|unlocking latent power but causing confusion.
+805|0x6900|0xd3d228|潜在能力を引き出す姿に変身する。|Causes a horrific transformation of the body,
+806|0x6900|0xd3d220|自分の周りの味方のＭＰを回復させる。|Restores the mental strength of nearby allies.
+807|0x6900|0xd3d21c|効果：混乱の快癒|Calms the disturbed mind and cures confusion.
+808|0x6900|0xd3d218|範囲内の味方の混乱の解除を行う。|All nearby allies regain mental lucidity.
+809|0x6900|0xd3d214|効果：マヒの快癒|Cures paralysis, relieving stiffened limbs.
+810|0x6900|0xd3d210|範囲内の味方のマヒの解除を行う。|All nearby allies regain their motor functions.
+811|0x6900|0xd3d20c|効果：呪いの快癒|Shatters minor hexes and breaks weak curses.
+812|0x6900|0xd3d208|範囲内の味方の呪い解除を行う。|All nearby allies are released from dark curses.
+813|0x6900|0xd3d204|効果：魅了の快癒|Expels sinister energy and cures hexes.
+814|0x6900|0xd3d200|範囲内の味方の魅了の解除を行う。|All nearby allies are purified of bewitchment.
+815|0x6900|0xd3d1fc|効果：相手の技量減少　重ねがけ不可|Reduces a foe's Skill attribute. Unstackable.
+816|0x6900|0xd3d1f0|相手を観察し弱点をつかむ。|Study foes behaviour to learn their weaknesses.
+817|0x6900|0xd3d1ec,0xd3d1f4|効果：相手の技量減少|Reduces an opponent's Skill attribute.
+818|0x6900|0xd3d1e8,0xd3d1f8|相手を偵察し弱点をつかむ。|Scrutinize foes to learn their weaknesses.
+819|0x6900|0xd3d1e4,0xd3d224,0xd3d354|効果：ＭＰの回復|Eases the mind and restores mental strength.
+820|0x6900|0xd3d1e0|味方を励まし、ＭＰの回復を図る。|"Drive them back to unknown Kadath!"
+821|0x6900|0xd3d1dc|効果：ＭＰの減少|Reduces a foe's mental strength.
+822|0x6900|0xd3d1d8|相手の精神にダメージを与える。|Seizes the body like an anomalous daemonic wind.
+823|0x6900|0xd3d1d4|効果：臆病の快癒|Cures cowardice with an invigoration of courage.
+824|0x6900|0xd3d1d0|先祖伝来の笛を吹き戦意を高める。|An ancestral flute that stirs fighting spirits.
+825|0x6900|0xd3d1cc,0xd3d2d4,0xd3d364|効果：全ステータス異常の快癒|Cures all abnormal status conditions.
+826|0x6900|0xd3d1c8|全ての状態異常の治療を行う|Restores the body to a flourished regular poise.
+827|0x6900|0xd3d1c4|効果：混乱、魅了、臆病の快癒|Cures confusion, bewitchment, and cowardice.
+828|0x6900|0xd3d1c0|混乱、魅了、臆病の治療を同時に行う。|Restores the mind to a tranquil normal poise.
+829|0x6900|0xd3d1bc|効果：盲目の快癒|Cures blindness, restoring sight to weary eyes.
+830|0x6900|0xd3d1b8|目の治療を行う。|For most of us sight is the king of the senses.
+831|0x6900|0xd3d1b4|効果：毒の快癒|Purges the body of toxins, and cures poisoning.
+832|0x6900|0xd3d1b0|毒の治療を行う。|Relieves the malignly seething bubbling pains.
+833|0x6900|0xd3d1ac|効果：ＨＰダメージ|Inflicts horrific physical damage to the body.
+834|0x6900|0xd3d1a8|狙いを集中し、相手を蜂の巣にしてしまう。|Focuses fire, reducing foes to Swiss cheese.
+835|0x6900|0xd3d1a4,0xd3d2a4,0xd3d2ac,0xd3d2b4,0xd3d33c,0xd3d344,0xd3d384,0xd3d394|効果：混乱|Disturbs the mind causing confusion and shock.
+836|0x6900|0xd3d1a0|威嚇射撃で範囲内の相手を混乱させる。|Stupefies foes with a hideous warning shot.
+837|0x6900|0xd3d19c,0xd3d374,0xd3d37c,0xd3d38c|効果：臆病|Foes are wracked by cowardice and fear.
+838|0x6900|0xd3d198|威嚇射撃で範囲内の相手を脅かす。|Threatens foes with a hairraising warning shot.
+839|0x6900|0xd3d190|神の手と呼ばれる医療技術で完治させる。|Absolute healing from Howard's "Hands of God".
+840|0x6900|0xd3d188|神秘の力で回りの味方の体力を回復させる。|Restores stamina using mystical abilities.
+841|0x6900|0xd3d180|大地の力により、自分の体力を回復する。|Restores stamina by means of an earthly power.
+842|0x6900|0xd3d178|祈りの力で回りの味方の体力を回復させる。|Allies recover their stamina through prayer.
+843|0x6900|0xd3d174|効果：激痛の快癒|Offers welcome relief from severe physical pain.
+844|0x6900|0xd3d170|最新の医療技術で激痛の治療を行う。|Treats severe pain using modern medicine.
+845|0x6900|0xd3d168|自分の回りの味方の体力を回復させる。|Nearby allies will recover their stamina.
+846|0x6900|0xd3d160|本格的な治療で体力を回復させる。|Recovers stamina through medical treament.
+847|0x6900|0xd3d15c,0xd3d164,0xd3d16c,0xd3d17c,0xd3d184,0xd3d18c,0xd3d194,0xd3d2bc,0xd3d2c4,0xd3d2cc|効果：ＨＰ回復|Heals injuries and lacerations of the body.
+848|0x6900|0xd3d158|自分の回りの味方の治療を行う。|Nearby allies also receive medical attention.
+849|0x6900|0xd3d154|効果：気絶の快癒|Removes the stupor as gently as the rain.
+850|0x6900|0xd3d150|気絶の治療を行う。|Awakens those who have fainted from terror.
+851|0x6900|0xd3d14c|効果：主人公のステータス異常全回復|Cures our hero of any status aliments.
+852|0x6900|0xd3d148|祈りを奉げ、主人公の状態を回復させる。|Prays for hero's safety.
+853|0x6900|0xd3d144|効果：主人公の守備力増加　重ねがけ不可|Increases our hero's Defense attribute once.
+854|0x6900|0xd3d140|主人公を応援し、守備力を高める。|"What has sunk may rise again! Don't give up!"
+855|0x6900|0xd3d13c|効果：主人公のＭＰ回復|Restores our hero's mental strength.
+856|0x6900|0xd3d138|励まして主人公のＭＰを回復させる。|"Summer follows winter! Stand strong!"
+857|0x6900|0xd3d134|効果：攻撃力増加　重ねがけ不可|Increases one's Attack attribute. Unstackable.
+858|0x6900|0xd3d130|力をためて攻撃力を高める。|Accumulate and amass vigour within the body.
+859|0x6900|0xd3d12c|効果：守備力増加　重ねがけ不可|Increases one's Defense attribute. Unstackable.
+860|0x6900|0xd3d128|守りに注意し、守備力を高める。|Watch the environment and take heed of danger.
+861|0x6900|0xd3d124|効果：ＭＰ回復|Eases the mind and restores mental strength.
+862|0x6900|0xd3d120|自己暗示をかけＭＰを回復させる。|Subconsciously soothes the inner voice.
+863|0x6900|0xd3d11c|効果：ＭＰ消費減少　重ねがけ不可|Reduces one's MP consumption. Unstackable.
+864|0x6900|0xd3d118|精神を研ぎ澄まし、ＭＰの消費を押さえる。|Silence the mind and mitigate mental stress.
+865|0x6900|0xd3d114|効果：経験値取得増加　重ねがけ不可|Increases EX points gained. Unstackable.
+866|0x6900|0xd3d110|精神を研ぎ澄まし、より多くの経験を積む。|Calms the mind by correlating its contents.
+867|0x6900|0xd3d10c|効果：速さ増加　重ねがけ不可|Increases one's Speed attribute. Unstackable.
+868|0x6900|0xd3d108|軽快な足さばきで素早さを増す。|Focus on balance and coordination when moving.
+869|0x6900|0xd3d104|効果：技量増加　重ねがけ不可|Increases one's Skill attribute. Unstackable.
+870|0x6900|0xd3d100|相手の動きを読み、攻撃を当てやすくする。|Read a foe's behaviour to increase accuracy.
+871|0x6900|0xd3d0fc|効果：技量・速さ増加　重ねがけ不可|Increases Skill and Speed attributes once.
+872|0x6900|0xd3d0f8|周りに注意し、集中力を高める。|Concentrate and observe the situation.
+873|0xcd4108|0xd3f988|待機|Wait
+874|0xcd4108|0xd3f984|ステータス|Status
+875|0xcd4108|0xd3f980,0xcd4240|回復|Recover
+876|0xcd4108|0xd3f97c|装備|Equip
+877|0xcd4108|0xd3f978|行動|Action
+878|0xcd4108|0xd3f974,0xd3f99c|移動|Move
+879|0xcd4108|0xd3f998|オプション|Options
+880|0xcd4108|0xd3f994|リスタート|Restart
+881|0xcd4108|0xd3f990|勝利条件|Objective
+882|0xcd4108|0xd3f98c|中断|Pause
+883|0xcd4108|0xd3f9a0|押す|Push
+884|0xcd4108|0xd3f9b4|笛を吹く|Play flute
+885|0xcd4108|0xd3f9b0|調べる|Investigate
+886|0xcd4108|0xd3f9ac|アイテム|Use Item
+887|0xcd4108|0xd3f9a8|特技|Use Skill
+888|0xcd4108|0xd3f9a4,0xcd423c|攻撃|Attack
+889|0xcd4108|0xd3f9bc|気合|Kiai Shout
+890|0xcd4108|0xd3f9b8|治療|Cure
+891|0xcd41b0|0xcd41d0,0xcd41ec|ＭＰ|MP
+892|0xcd41b0|0xcd41d4|威力|Power
+893|0xcd41b0|0xcd41d8,0xcd41f4|射程|Range
+894|0xcd41b0|0xcd41dc,0xcd41f8|範囲|Area
+895|0xcd41e4|0xcd41f0|効果|Effect
+896|0xcd41fc|0xcd4214,0xcd421c|隣接|By
+897|0xcd41fc|0xcd4218|射撃|Shoot
+898|0xcd41fc|0xcd4220|直線|Linear
+899|0xcd4224|0xcd4244|補助|Support
+900|0xcd4224|0xcd4248|吸収|Absorb
+901|0xcd4224|0xcd424c|召喚|Summon
+902|0xcd4484|0xd3fc08|・邪神を倒せ！|· Defeat Jya'Shin!
+903|0xcd4484|0xd3fbfc|・邪神を倒し、$bを救え！|· Defeat Jya'Shin and
+903b|0xcd4484|0xd3fc00||   save $b!
+904|0xcd4484|0xd3fbf8,0xd3fc1c|・$a、ステーシーの死亡|· $a or Stacy die.
+905|0xcd4484|0xd3fbf0|？|?
+906|0xcd4484|0xd3fbe4|・マエラカを倒せ！|· Defeat Maeraka!
+907|0xcd4484|0xd3fb90|・丘の頂上の祭壇へ移動せよ！|· Reach the altar!
+908|0xcd4484|0xd3fb84|・呪いの像を全て破壊せよ！|· Destroy all of the cursed
+908b|0xcd4484|0xd3fb88||   statues!
+909|0xcd4484|0xd3fb60|・$bを守り、敵を全て倒せ！|· Protect $b and defeat
+909b|0xcd4484|0xd3fb64||   the enemies!
+910|0xcd4484|0xd3fb58|　$bを救え！|   save $b!
+911|0xcd4484|0xd3fb54|・丘の頂上の祭壇へ行き、|· Reach the altar and
+912|0xcd4484|0xd3fb48|・全員、南バハルナへ移動せよ！|· Reach South Baharna!
+913|0xcd4484|0xd3fb30,0xd3fb3c,0xd3fb9c,0xd3fba8,0xd3fbc0,0xd3fbcc|・全員、目的地へ移動せよ！|· Reach the destination!
+914|0xcd4484|0xd3fb28,0xd3fb34,0xd3fb40|・または、敵を全て倒せ！|· Or defeat the enemies!
+915|0xcd4484|0xd3fb24|・武器庫へ移動せよ！|· Reach the Armoury!
+916|0xcd4484|0xd3fb20,0xd3fb2c,0xd3fb38,0xd3fb44,0xd3fb74,0xd3fb8c,0xd3fb98,0xd3fba4,0xd3fbbc,0xd3fbc8,0xd3fbd4,0xd3fbe0,0xd3fbec,0xd3fc04,0xd3fc10,0xd3fc34,0xd3fc40,0xd3fc4c|・$aの死亡|· $a dies...
+917|0xcd4484|0xd3fb1c,0xd3fb4c,0xd3fb70,0xd3fb7c,0xd3fb94,0xd3fba0,0xd3fbac,0xd3fbb8,0xd3fbc4,0xd3fbd0,0xd3fbdc,0xd3fbe8,0xd3fbf4,0xd3fc0c,0xd3fc30,0xd3fc3c,0xd3fc48||
+918|0xcd4484|0xd3fb18,0xd3fb6c,0xd3fb78,0xd3fbb4,0xd3fbd8,0xd3fc2c|・敵を全て倒せ！|· Defeat the enemies!
+919|0xcd4484|0xd3fb14,0xd3fb50,0xd3fb5c,0xd3fbb0|・$a、タケルの死亡|· $a or Takeru die...
+920|0xcd4484|0xd3fb10|　いけにえの少女を救え！|   save the sacrificial girl!
+921|0xcd4484|0xd3fb0c|・敵を全て倒し、|· Defeat the enemies and
+922|0xcd4484|0xd3fb08,0xd3fb68,0xd3fb80|・$a、$bの死亡|· $a or $b die...
+923|0xcd4484|0xd3fb04|　目的地へ移動せよ！|   reach the destination!
+924|0xcd4484|0xd3fb00|・$aと$bは、|· $a and $b
+925|0xcd4484|0xd3fc44|・ヒュドラを倒せ！|· Defeat Hydra!
+926|0xcd4484|0xd3fc38|・アークレットを倒せ！|· Defeat Arklett!
+927|0xcd4484|0xd3fc28|・$a、タケル、キリウの死亡|· $a, Takeru or Kiriu die...
+928|0xcd4484|0xd3fc24|　南バハルナへ移動せよ！|   reach South Baharna!
+929|0xcd4484|0xd3fc20|・キリウを助け、全員、|· Help Kiriu and
+930|0xcd4484|0xd3fc18|　ステーシーを救え！|   save Stacy!
+931|0xcd4484|0xd3fc14|・モンスターを全て倒し、|· Defeat the creatures and
+932|0xccee4c|0xd3ac0c|出撃|Depart
+933|0xccee4c|0xd3ac08|オプション|Options
+934|0xccee4c|0xd3ac04|ロード|Load
+935|0xccee4c|0xd3ac00|セーブ|Save
+936|0xccee4c|0xd3abfc|アイテム|Items
+937|0xccee4c|0xd3abf8|装備|Equipment
+938|0xccee4c|0xd3abf4|ステータス|Status
+939|0xccee4c|0xd3ac14|捨てる|Throw Away
+940|0xccee4c|0xd3ac10|使う|Use
