@@ -21,15 +21,19 @@ I had wanted to translate this game for some time, but I was afraid of not being
 
 The game itself is clearly a "Final Fantasy Tactics" gameplay rip-off, but the story is dark and interesting. It has some fun hours in store for those willing to tackle the challenge (some of the last battles can be brutal, and getting the good ending is particularly tricky). I'm chuffed we were able to translate it, and I hope everyone who plays it has a great time.
 
+The included "extras" ZIP file has the translated manual, inlay and promo ad scans. The manual and inlay in particular have two versions each: one intended for PC visualization, and one for printing.
+
 As usual, feel free to do whatever the hell you want with this code: fork it, study it, change it, translate the game to other languages, whatever. Knowledge should be free. I was only able to learn ROM hacking thanks to the kindness of people who came before me and altruistically shared their knowledge. If you do something with this code, a wee "thank you" would be much appreciated, but is by no means mandatory.
 
-No IA, LLM, MTL or other such nonsense was used in the production of this patch. Not for the translation, not for the graphics, not for the coding, not for anything.
+No AI, LLM, MTL or other such nonsense was used in the production of this patch. Not for the translation, not for the graphics, not for the coding, not for anything.
 
 ### Credits
 *	Chapu - Programming/hacking.
 *	LaytonLoztew - Playtesting and QA.
 *	vervalkon - Graphics and video editing, release trailer.
 *	whowasphone404 - Translation and localisation.
+
+Very special thanks to Lachrymal, for graciously providing the original manual scan.
 
 ## Changelog:
 ###	v1.0:
