@@ -1,7 +1,7 @@
 __pycache__/
 bin/*
 !bin/COPY-GAME-BIN-CUE-HERE
-!bin/Ningyo no Rakuin (English v1.0).cue
+!bin/Ningyo no Rakuin (English v1.01).cue
 tools/*
 !tools/COPY-TOOLS-HERE
 .venv/

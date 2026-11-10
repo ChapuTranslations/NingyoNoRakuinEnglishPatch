@@ -608,7 +608,7 @@ addiu	s1,s0,0x80
 ; Erase longer item descriptions
 ; 0x8008fcfc
 .org 0xd0a4fc
-li		a1,0x3f
+li		a1,0x40
 
 ; 0x8008fc30
 .org 0xd0a430
